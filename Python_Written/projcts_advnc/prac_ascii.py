@@ -1,0 +1,6 @@
+print(ord('h'))
+print(ord('a'))
+print(ord('c'))
+print(ord('k'))
+print(ord('e'))
+print(ord('r'))

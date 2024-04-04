@@ -1,0 +1,860 @@
+{\rtf1\adeflang1081\ansi\ansicpg1252\uc1\adeff24\deff0\stshfdbch31505\stshfloch31506\stshfhich31506\stshfbi0\deflang16393\deflangfe16393\themelang16393\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f2\fbidi \fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}
+{\f3\fbidi \froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f10\fbidi \fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}{\f24\fbidi \froman\fcharset1\fprq2{\*\panose 00000400000000000000}Mangal{\*\falt Courier New};}
+{\f24\fbidi \froman\fcharset1\fprq2{\*\panose 00000400000000000000}Mangal{\*\falt Courier New};}{\f37\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}{\f39\fbidi \fmodern\fcharset0\fprq1{\*\panose 020b0609020204030204}Consolas;}
+{\flomajor\f31500\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fdbmajor\f31501\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\fhimajor\f31502\fbidi \froman\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria;}{\fbimajor\f31503\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\flominor\f31504\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fdbminor\f31505\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\fhiminor\f31506\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}{\fbiminor\f31507\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f277\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\f278\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\f280\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\f281\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\f282\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\f283\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f284\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\f285\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f297\fbidi \fmodern\fcharset238\fprq1 Courier New CE;}
+{\f298\fbidi \fmodern\fcharset204\fprq1 Courier New Cyr;}{\f300\fbidi \fmodern\fcharset161\fprq1 Courier New Greek;}{\f301\fbidi \fmodern\fcharset162\fprq1 Courier New Tur;}{\f302\fbidi \fmodern\fcharset177\fprq1 Courier New (Hebrew);}
+{\f303\fbidi \fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f304\fbidi \fmodern\fcharset186\fprq1 Courier New Baltic;}{\f305\fbidi \fmodern\fcharset163\fprq1 Courier New (Vietnamese);}{\f647\fbidi \fswiss\fcharset238\fprq2 Calibri CE;}
+{\f648\fbidi \fswiss\fcharset204\fprq2 Calibri Cyr;}{\f650\fbidi \fswiss\fcharset161\fprq2 Calibri Greek;}{\f651\fbidi \fswiss\fcharset162\fprq2 Calibri Tur;}{\f652\fbidi \fswiss\fcharset177\fprq2 Calibri (Hebrew);}
+{\f653\fbidi \fswiss\fcharset178\fprq2 Calibri (Arabic);}{\f654\fbidi \fswiss\fcharset186\fprq2 Calibri Baltic;}{\f655\fbidi \fswiss\fcharset163\fprq2 Calibri (Vietnamese);}{\f667\fbidi \fmodern\fcharset238\fprq1 Consolas CE;}
+{\f668\fbidi \fmodern\fcharset204\fprq1 Consolas Cyr;}{\f670\fbidi \fmodern\fcharset161\fprq1 Consolas Greek;}{\f671\fbidi \fmodern\fcharset162\fprq1 Consolas Tur;}{\f674\fbidi \fmodern\fcharset186\fprq1 Consolas Baltic;}
+{\f675\fbidi \fmodern\fcharset163\fprq1 Consolas (Vietnamese);}{\flomajor\f31508\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\flomajor\f31509\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\flomajor\f31511\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\flomajor\f31512\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\flomajor\f31513\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\flomajor\f31514\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\flomajor\f31515\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\flomajor\f31516\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\fdbmajor\f31518\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fdbmajor\f31519\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fdbmajor\f31521\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
+{\fdbmajor\f31522\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fdbmajor\f31523\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fdbmajor\f31524\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\fdbmajor\f31525\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fdbmajor\f31526\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fhimajor\f31528\fbidi \froman\fcharset238\fprq2 Cambria CE;}
+{\fhimajor\f31529\fbidi \froman\fcharset204\fprq2 Cambria Cyr;}{\fhimajor\f31531\fbidi \froman\fcharset161\fprq2 Cambria Greek;}{\fhimajor\f31532\fbidi \froman\fcharset162\fprq2 Cambria Tur;}
+{\fhimajor\f31535\fbidi \froman\fcharset186\fprq2 Cambria Baltic;}{\fhimajor\f31536\fbidi \froman\fcharset163\fprq2 Cambria (Vietnamese);}{\fbimajor\f31538\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\fbimajor\f31539\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fbimajor\f31541\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fbimajor\f31542\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}
+{\fbimajor\f31543\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fbimajor\f31544\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fbimajor\f31545\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\fbimajor\f31546\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\flominor\f31548\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\flominor\f31549\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\flominor\f31551\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\flominor\f31552\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\flominor\f31553\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\flominor\f31554\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\flominor\f31555\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\flominor\f31556\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\fdbminor\f31558\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fdbminor\f31559\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fdbminor\f31561\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
+{\fdbminor\f31562\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fdbminor\f31563\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fdbminor\f31564\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\fdbminor\f31565\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fdbminor\f31566\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fhiminor\f31568\fbidi \fswiss\fcharset238\fprq2 Calibri CE;}
+{\fhiminor\f31569\fbidi \fswiss\fcharset204\fprq2 Calibri Cyr;}{\fhiminor\f31571\fbidi \fswiss\fcharset161\fprq2 Calibri Greek;}{\fhiminor\f31572\fbidi \fswiss\fcharset162\fprq2 Calibri Tur;}
+{\fhiminor\f31573\fbidi \fswiss\fcharset177\fprq2 Calibri (Hebrew);}{\fhiminor\f31574\fbidi \fswiss\fcharset178\fprq2 Calibri (Arabic);}{\fhiminor\f31575\fbidi \fswiss\fcharset186\fprq2 Calibri Baltic;}
+{\fhiminor\f31576\fbidi \fswiss\fcharset163\fprq2 Calibri (Vietnamese);}{\fbiminor\f31578\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fbiminor\f31579\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\fbiminor\f31581\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fbiminor\f31582\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fbiminor\f31583\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\fbiminor\f31584\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fbiminor\f31585\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fbiminor\f31586\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\f629\fbidi \fswiss\fcharset0\fprq2 Arial Unicode MS Western;}{\f627\fbidi \fswiss\fcharset238\fprq2 Arial Unicode MS CE;}{\f628\fbidi \fswiss\fcharset204\fprq2 Arial Unicode MS Cyr;}{\f630\fbidi \fswiss\fcharset161\fprq2 Arial Unicode MS Greek;}
+{\f631\fbidi \fswiss\fcharset162\fprq2 Arial Unicode MS Tur;}{\f632\fbidi \fswiss\fcharset177\fprq2 Arial Unicode MS (Hebrew);}{\f633\fbidi \fswiss\fcharset178\fprq2 Arial Unicode MS (Arabic);}
+{\f634\fbidi \fswiss\fcharset186\fprq2 Arial Unicode MS Baltic;}{\f635\fbidi \fswiss\fcharset163\fprq2 Arial Unicode MS (Vietnamese);}{\f636\fbidi \fswiss\fcharset222\fprq2 Arial Unicode MS (Thai);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;
+\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;
+\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\red188\green190\blue196;\red30\green30\blue30;\red106\green153\blue85;\red212\green212\blue212;\red156\green220\blue254;\red78\green201\blue176;\red181\green206\blue168;
+\red220\green220\blue170;\red197\green134\blue192;\red206\green145\blue120;}{\*\defchp \fs22\loch\af31506\hich\af31506\dbch\af31505 }{\*\defpap \ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 }
+\noqfpromote {\stylesheet{\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af24\afs20\alang1081 \ltrch\fcs0 
+\fs22\lang16393\langfe16393\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp16393\langfenp16393 \snext0 \sqformat \spriority0 Normal;}{\*\cs10 \additive \sunhideused \spriority1 Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tblind0\tblindtype3\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv \ql \li0\ri0\sa200\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1081 \ltrch\fcs0 \fs22\lang16393\langfe16393\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp16393\langfenp16393 \snext11 \ssemihidden \sunhideused 
+Normal Table;}}{\*\listtable{\list\listtemplateid-13208438\listsimple{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelold\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\rtlch\fcs1 \af37 \ltrch\fcs0 
+\f37\fbias0 }{\listname ;}\listid19280585}{\list\listtemplateid1822854572\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\leveltemplateid-1069879892
+\'01\u-3913 ?;}{\levelnumbers;}\loch\af3\hich\af3\dbch\af31505\fbias0 \fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331651
+\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}
+\f10\fbias0 \fi-360\li2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 
+\fi-360\li2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\lin3600 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\lin6480 }{\listname ;}\listid309097580}{\list\listtemplateid-1631694260\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\leveltemplateid335728170\'01\u-3913 ?;}{\levelnumbers;}\loch\af3\hich\af3\dbch\af31505\fbias0 \fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331651
+\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}
+\f10\fbias0 \fi-360\li4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 
+\fi-360\li5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\lin5760 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\lin6480 }{\listname ;}\listid1550220371}
+{\list\listtemplateid1992988186\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\leveltemplateid-2142181980\'01-;}{\levelnumbers;}\loch\af37\hich\af37\dbch\af31505\fbias0 
+\fi-360\li1080\lin1080 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1800\lin1800 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2520\lin2520 }{\listlevel\levelnfc23\levelnfcn23\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li3240\lin3240 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3960\lin3960 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4680\lin4680 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5400\lin5400 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331651
+\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li6120\lin6120 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}
+\f10\fbias0 \fi-360\li6840\lin6840 }{\listname ;}\listid1594628587}{\list\listtemplateid464698196\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\leveltemplateid451843578
+\'01\u-3913 ?;}{\levelnumbers;}\loch\af3\hich\af3\dbch\af31505\fbias0 \fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331651
+\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}
+\f10\fbias0 \fi-360\li2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 
+\fi-360\li2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\lin3600 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\lin6480 }{\listname ;}\listid1821119737}{\list\listtemplateid384706830\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat0\levelspace0\levelindent0{\leveltext\leveltemplateid1766589322\'01\u-3913 ?;}{\levelnumbers;}\loch\af3\hich\af3\dbch\af31505\fbias0 \fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0
+{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331651
+\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}
+\f10\fbias0 \fi-360\li4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 
+\fi-360\li5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\lin5760 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\lin6480 }{\listname ;}\listid1838812686}
+{\list\listtemplateid728668134\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\leveltemplateid1350068310\'01\u-3864 ?;}{\levelnumbers;}\loch\af10\hich\af10\dbch\af31505\fbias0 
+\fi-465\li1905\lin1905 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li2520\lin2520 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li3240\lin3240 }{\listlevel\levelnfc23\levelnfcn23\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li3960\lin3960 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li4680\lin4680 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li5400\lin5400 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li6120\lin6120 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331651
+\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li6840\lin6840 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}
+\f10\fbias0 \fi-360\li7560\lin7560 }{\listname ;}\listid1887449821}}{\*\listoverridetable{\listoverride\listid19280585\listoverridecount0\ls1}{\listoverride\listid309097580\listoverridecount0\ls2}{\listoverride\listid1838812686\listoverridecount0\ls3}
+{\listoverride\listid1821119737\listoverridecount0\ls4}{\listoverride\listid1887449821\listoverridecount0\ls5}{\listoverride\listid1594628587\listoverridecount0\ls6}{\listoverride\listid1550220371\listoverridecount0\ls7}}{\*\pgptbl {\pgp\ipgp3\itap0\li0
+\ri0\sb0\sa0}{\pgp\ipgp37\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp37\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp1\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp7\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp18\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp7\itap0\li0\ri0\sb0\sa0}
+{\pgp\ipgp7\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp17\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp7\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp10\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp10\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp10\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp10\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp10
+\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp7\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp24\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp24\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp24\itap0\li0\ri0
+\sb0\sa0}{\pgp\ipgp22\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp24\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp24\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp7\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp37\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp37\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}
+{\pgp\ipgp33\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp37\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp31\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp37\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp35\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp30
+\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp38\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp38\itap0\li0\ri0\sb0\sa0}}{\*\rsidtbl \rsid6875\rsid22047\rsid536300\rsid729753\rsid749949\rsid816013\rsid997830\rsid1010604\rsid1049139\rsid1121043\rsid1268210\rsid1275804\rsid1316524
+\rsid1402508\rsid1508956\rsid1535361\rsid1782286\rsid2172420\rsid2193954\rsid2376058\rsid2388982\rsid2499166\rsid2648804\rsid2889746\rsid2907770\rsid2951103\rsid3022325\rsid3211541\rsid3694657\rsid3744471\rsid3754895\rsid3867503\rsid3868965\rsid3959255
+\rsid4086894\rsid4265980\rsid4326872\rsid4348491\rsid4355491\rsid4543414\rsid4661362\rsid4800861\rsid5178097\rsid5389701\rsid5514294\rsid5521414\rsid5793711\rsid5856976\rsid5858401\rsid5862157\rsid5903895\rsid6120813\rsid6360155\rsid6363307\rsid6447620
+\rsid6489092\rsid6566542\rsid6750758\rsid6817583\rsid6833014\rsid6844355\rsid6883259\rsid6884544\rsid6885316\rsid6891675\rsid6950678\rsid7164827\rsid7294933\rsid7425748\rsid7607105\rsid7672589\rsid7743319\rsid7873954\rsid7892443\rsid8131976\rsid8142428
+\rsid8329954\rsid8396402\rsid8666831\rsid8742078\rsid8786796\rsid8793098\rsid8803099\rsid9272303\rsid9400400\rsid9443814\rsid9457369\rsid9535093\rsid9535283\rsid9716863\rsid9781407\rsid9831231\rsid9905342\rsid10161988\rsid10237274\rsid10380819
+\rsid10451257\rsid10627628\rsid10636413\rsid10759965\rsid10959864\rsid11015072\rsid11032557\rsid11098053\rsid11161488\rsid11297881\rsid11608038\rsid11616073\rsid11750684\rsid11864641\rsid11931652\rsid11933932\rsid12144806\rsid12337105\rsid12344253
+\rsid12387437\rsid12457453\rsid12653592\rsid12784137\rsid12848467\rsid13124833\rsid13130967\rsid13239081\rsid13570965\rsid13588503\rsid13653022\rsid13655525\rsid13708759\rsid13726236\rsid13775013\rsid13782853\rsid13908952\rsid14040117\rsid14226774
+\rsid14356873\rsid14418778\rsid14507794\rsid14568546\rsid14622976\rsid14754941\rsid15159134\rsid15166204\rsid15222479\rsid15494679\rsid15668674\rsid15685591\rsid15760096\rsid16212488\rsid16278730\rsid16322393\rsid16451991\rsid16742060}{\mmathPr
+\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\operator HP}{\creatim\yr2023\mo7\dy8\hr18\min57}{\revtim\yr2023\mo10\dy21\hr22\min31}{\version147}{\edmins3003}{\nofpages37}
+{\nofwords2395}{\nofchars13656}{\nofcharsws16019}{\vern49247}{\*\saveprevpict}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}\paperw12240\paperh15840\margl1440\margr1440\margt1440\margb1440\gutter0\ltrsect 
+\widowctrl\ftnbj\aenddoc\trackmoves0\trackformatting1\donotembedsysfont0\relyonvml0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0\horzdoc\dghspace120\dgvspace120\dghorigin1701
+\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale80\rsidroot6363307 \nouicompat \fet0{\*\wgrffmtfilter 2450}\nofeaturethrottle1\ilfomacatclnup0\ltrpar \sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1
+\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5
+\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang 
+{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af24\afs20\alang1081 \ltrch\fcs0 
+\fs22\lang16393\langfe16393\loch\af31506\hich\af31506\dbch\af31505\cgrid\langnp16393\langfenp16393 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \tab \tab }{\rtlch\fcs1 \ab\ai\af37\afs144 \ltrch\fcs0 
+\b\i\f37\fs144\lang9\langfe16393\langnp9\insrsid749949 \tab }{\rtlch\fcs1 \ab\ai\af37\afs144 \ltrch\fcs0 \b\i\f37\fs144\ul\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 Pyhton
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 * \tab Printing a blank invisible line - print()
+\par \hich\af37\dbch\af31505\loch\f37 With a text - print("Hello World.....") / 
+\par \hich\af37\dbch\af31505\loch\f37 * print("Hello World....)  - this command will show the }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 Syntax Error }{\rtlch\fcs1 \af37\afs48 
+\ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 on running.
+\par \hich\af37\dbch\af31505\loch\f37 Printing the line - print('what to print')
+\par \hich\af37\dbch\af31505\loch\f37 Right Method to these type of Command - print(" print('what to print') ")
+\par \hich\af37\dbch\af31505\loch\f37 Wrong Method to these type of Command - print(' print('what to print') ' )
+\par \hich\af37\dbch\af31505\loch\f37 the first ( ' ) and the second used in the line will end that ( \hich\af37\dbch\af31505\loch\f37 ' ) in the starting of the sentence only so the line won't print the whole. Though \{ what to print \}
+ will not be printed computer will took this line as a command and will return the }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 Syntax Error. }{\rtlch\fcs1 \af37\afs48 
+\ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 The statement will not be taken as a string to print.
+\par \hich\af37\dbch\af31505\loch\f37 Hence\hich\af37\dbch\af31505\loch\f37  it will denote the Syntax Error because the programmer is not following the syntax of the language.
+\par }{\rtlch\fcs1 \ab\af37\afs72 \ltrch\fcs0 \b\f37\fs72\lang9\langfe16393\langnp9\insrsid749949 \tab \tab }{\rtlch\fcs1 \ab\af37\afs72 \ltrch\fcs0 \b\f37\fs72\ul\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 String Manipulation
+
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \\\hich\af37\dbch\af31505\loch\f37 n this will give the computer a command to change the line for ex- print('Heyyy.... \\n I m Adi \\n This is Python....')
+\par \\\hich\af37\dbch\af31505\loch\f37 n = New Line.
+\par \hich\af37\dbch\af31505\loch\f37 The output - Heyyy
+\par \tab \tab \tab \hich\af37\dbch\af31505\loch\f37 I m Adi 
+\par \tab \tab \tab \hich\af37\dbch\af31505\loch\f37 This is Python
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 Concatinating The String 
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 
+using the + sign in the line for ex - print("hey" + "adi") this will print both of the strings together without spaces - heyadi To add space in it - we can add a space before the \hich\af37\dbch\af31505\loch\f37 second " in the first string 
+\par \hich\af37\dbch\af31505\loch\f37 Or 
+\par \hich\af37\dbch\af31505\loch\f37 We can add  space before the second string and after the first " in the second String it will give the  space between the strings
+\par \hich\af37\dbch\af31505\loch\f37 Or 
+\par \hich\af37\dbch\af31505\loch\f37 We can - print("hey" + " " + "adi") write it like this.
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid5862157 \hich\af37\dbch\af31505\loch\f37 Or 
+\par \hich\af37\dbch\af31505\loch\f37 We can use the , operator fo\hich\af37\dbch\af31505\loch\f37 r it will add sp}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid3754895 \hich\af37\dbch\af31505\loch\f37 
+ace and convert them to the stri}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid5862157 \hich\af37\dbch\af31505\loch\f37 ngs }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid3754895 
+\hich\af37\dbch\af31505\loch\f37 if they are not.}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid5862157 
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid1049139 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid1049139 \hich\af37\dbch\af31505\loch\f37 
+It will print the output 6 , though }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid1049139\charrsid6875 \hich\af37\dbch\af31505\loch\f37 print( \hich\f37 \lquote \loch\f37 1\hich\f37 \rquote \loch\f37 +2+3)}{
+\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid1049139 \hich\af37\dbch\af31505\loch\f37  }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid1049139\charrsid6875 
+\hich\af37\dbch\af31505\loch\f37 will raise}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid1049139 \hich\af37\dbch\af31505\loch\f37  }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 
+\f37\fs48\lang9\langfe16393\langnp9\insrsid1049139 \hich\af37\dbch\af31505\loch\f37 the }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\ul\lang9\langfe16393\langnp9\insrsid1049139 \hich\af37\dbch\af31505\loch\f37 Type Error}{\rtlch\fcs1 \af37\afs48 
+\ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid1049139 \hich\af37\dbch\af31505\loch\f37  because we can\hich\f37 \rquote \loch\f37 t add a string and a integer.
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid1049139 \hich\af37\dbch\af31505\loch\f37 
+, this operator can handle different types of values. W\hich\af37\dbch\af31505\loch\f37 e can use }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid1049139\charrsid1049139 \hich\af37\dbch\af31505\loch\f37 print(
+\hich\f37 \lquote \loch\f37 Hellow Wrold\hich\f37 \rquote \loch\f37  , 42)}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid1049139 \hich\af37\dbch\af31505\loch\f37  }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 
+\f37\fs48\lang9\langfe16393\langnp9\insrsid1049139\charrsid1049139 \hich\af37\dbch\af31505\loch\f37 but we can\hich\f37 \rquote \loch\f37 t use}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid1049139 
+\hich\af37\dbch\af31505\loch\f37  }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid1049139\charrsid1049139 \hich\af37\dbch\af31505\loch\f37 print(\hich\f37 \lquote \loch\f37 Hellow Wrold\hich\f37 \rquote }{\rtlch\fcs1 
+\ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid1049139 \hich\af37\dbch\af31505\loch\f37  +}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid1049139\charrsid1049139 
+\hich\af37\dbch\af31505\loch\f37  42)}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid1049139 \hich\af37\dbch\af31505\loch\f37  }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid1049139 
+\hich\af37\dbch\af31505\loch\f37 it will raise the }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\ul\lang9\langfe16393\langnp9\insrsid1049139 \hich\af37\dbch\af31505\loch\f37 Type Error}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 
+\f37\fs48\lang9\langfe16393\langnp9\insrsid1049139 \hich\af37\dbch\af31505\loch\f37  .
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid3754895 \hich\af37\dbch\af31505\loch\f37 For ex }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid3754895\charrsid3754895 {\field{\*\fldinst SY
+MBOL 224 \\f "Wingdings" \\s 24}{\fldrslt\f10\fs48}}}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid3754895 \hich\af37\dbch\af31505\loch\f37  print(1, 2, 3)
+\par \tab \hich\af37\dbch\af31505\loch\f37    }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid3754895\charrsid3754895 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 24}{\fldrslt\f10\fs48}}}{\rtlch\fcs1 \af37\afs48 
+\ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid3754895 \hich\af37\dbch\af31505\loch\f37  1 2 3 
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid4326872 \hich\af37\dbch\af31505\loch\f37 The + operator concatenates\hich\af37\dbch\af31505\loch\f37  the values and requires them of the same type}{\rtlch\fcs1 \af37\afs48 
+\ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid14040117 .}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid4326872 
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid14040117 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid14040117 \hich\af37\dbch\af31505\loch\f37 For ex }{\rtlch\fcs1 
+\af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid14040117\charrsid14040117 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 24}{\fldrslt\f10\fs48}}}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 
+\f37\fs48\lang9\langfe16393\langnp9\insrsid14040117 \hich\af37\dbch\af31505\loch\f37  print(1+2+3)
+\par }\pard \ltrpar\ql \li255\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin255\itap0\pararsid3211541 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 
+Leaving the Blank  area in the starting the of the statement will give the }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 Indentation Error }{\rtlch\fcs1 \af37\afs48 
+\ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 to the user. }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid12653592 \hich\af37\dbch\af31505\loch\f37 
+For ex - Space before the print }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid3211541 \hich\af37\dbch\af31505\loch\f37  }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid12653592 
+\hich\af37\dbch\af31505\loch\f37 key}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 word.
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs52\lang9\langfe16393\langnp9\insrsid6891675\charrsid6891675 \loch\af37\dbch\af31505\hich\f37 \'93
+\hich\af37\dbch\af31505\loch\f37 The + operator is used for }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs52\ul\lang9\langfe16393\langnp9\insrsid6891675\charrsid6891675 \hich\af37\dbch\af31505\loch\f37 Concatenation}{\rtlch\fcs1 \ab\af37\afs48 
+\ltrch\fcs0 \b\f37\fs52\lang9\langfe16393\langnp9\insrsid6891675\charrsid6891675 \hich\af37\dbch\af31505\loch\f37  while the , operator is used for }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs52\ul\lang9\langfe16393\langnp9\insrsid7743319 
+\hich\af37\dbch\af31505\loch\f37 Sepa}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs52\ul\lang9\langfe16393\langnp9\insrsid6891675\charrsid6891675 \hich\af37\dbch\af31505\loch\f37 \hich\f37 ration\'94}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\b\f37\fs52\ul\lang9\langfe16393\langnp9\insrsid749949 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs52\lang9\langfe16393\langnp9\insrsid2951103\charrsid6891675 
+\par }\pard \ltrpar\ql \fi720\li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid2951103 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37  }{\rtlch\fcs1 
+\ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \tab \tab }{\rtlch\fcs1 \ab\af37\afs72 \ltrch\fcs0 \b\f37\fs72\ul\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 Input Function}{\rtlch\fcs1 
+\af37\afs72 \ltrch\fcs0 \f37\fs72\lang9\langfe16393\langnp9\insrsid749949 
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 
+This will take the info from the user with a prompt r without a prompt -
+\par \hich\af37\dbch\af31505\loch\f37 input("What is Your Name?")
+\par \hich\af37\dbch\af31505\loch\f37 print("Hello " + input("What is Your Name?") )
+\par \hich\af37\dbch\af31505\loch\f37 It will ask the name First and then print it....
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid9905342 \hich\af37\dbch\af31505\loch\f37 # }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid9905342\charrsid9905342 
+{\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 24}{\fldrslt\f10\fs48}}}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37  Comments
+\par \hich\af37\dbch\af31505\loch\f37 #input("What's your Name?")
+\par \hich\af37\dbch\af31505\loch\f37 print("ohkh User!" + " " + input("What's your Name?"))
+\par \hich\af37\dbch\af31505\loch\f37 input("How You Doing?.....")
+\par \hich\af37\dbch\af31505\loch\f37 print('Seems Great!!...')}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 
+\par }{\rtlch\fcs1 \ab\af37\afs72 \ltrch\fcs0 \b\f37\fs72\cf17\lang1033\langfe16393\langnp1033\insrsid749949 
+\par }{\rtlch\fcs1 \ab\af37\afs72 \ltrch\fcs0 \b\f37\fs72\lang9\langfe16393\langnp9\insrsid749949 \tab \tab }{\rtlch\fcs1 \ab\af37\afs72 \ltrch\fcs0 \b\f37\fs72\lang9\langfe16393\langnp9\insrsid9457369 \tab \tab 
+\par }\pard \ltrpar\ql \li2880\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin2880\itap0\pararsid9457369 {\rtlch\fcs1 \ab\af37\afs72 \ltrch\fcs0 \b\f37\fs72\ul\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 Variables}{
+\rtlch\fcs1 \ab\af37\afs72 \ltrch\fcs0 \b\f37\fs72\lang9\langfe16393\langnp9\insrsid749949 
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 Like in \hich\af37\dbch\af31505\loch\f37 
+java we store the initialise}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid3211541 \hich\af37\dbch\af31505\loch\f37 d}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 
+\hich\af37\dbch\af31505\loch\f37  the variable with its class defined ex- int(only numbers) , char (only characters) , etc....
+\par \hich\af37\dbch\af31505\loch\f37 In Python we can store any thing in any variable just with its specified name without mentioning its data type. For ex - a=1 , jb="ad\hich\af37\dbch\af31505\loch\f37 
+i" , etc we can print it as usual - print(a) , print(jb).
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid9457369 
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\ul\lang9\langfe16393\langnp9\insrsid9457369\charrsid4800861 \hich\af37\dbch\af31505\loch\f37 M\hich\af37\dbch\af31505\loch\f37 o\hich\af37\dbch\af31505\loch\f37 st \hich\af37\dbch\af31505\loch\f37 I
+\hich\af37\dbch\af31505\loch\f37 mportant , we can not just decla\hich\af37\dbch\af31505\loch\f37 re a var\hich\af37\dbch\af31505\loch\f37 iable in python without in\hich\af37\dbch\af31505\loch\f37 itialis\hich\af37\dbch\af31505\loch\f37 ing it.
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs52\ul\lang9\langfe16393\langnp9\insrsid9457369\charrsid9457369 \hich\af37\dbch\af31505\loch\f37 What \hich\af37\dbch\af31505\loch\f37 is Initialising of any variable?
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid10759965 \hich\af37\dbch\af31505\loch\f37 The transfer of data in any variable \hich\af37\dbch\af31505\loch\f37 is \hich\af37\dbch\af31505\loch\f37 be defined 
+\hich\af37\dbch\af31505\loch\f37 as initialising , \hich\af37\dbch\af31505\loch\f37 storing\hich\af37\dbch\af31505\loch\f37  any data into any variable in p\hich\af37\dbch\af31505\loch\f37 rograming \hich\af37\dbch\af31505\loch\f37 i
+\hich\af37\dbch\af31505\loch\f37 s know\hich\af37\dbch\af31505\loch\f37 n as }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid10759965 \hich\af37\dbch\af31505\loch\f37 Initialising.}{\rtlch\fcs1 \ab\af37\afs48 
+\ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid13775013\charrsid9831231 
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid13775013 \hich\af37\dbch\af31505\loch\f37 Because python is a }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\ul\lang9\langfe16393\langnp9\insrsid13775013 
+\hich\af37\dbch\af31505\loch\f37 Dynamically typed L\hich\af37\dbch\af31505\loch\f37 a\hich\af37\dbch\af31505\loch\f37 nguage}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid13775013 \hich\af37\dbch\af31505\loch\f37 
+ , which s}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid6120813 \hich\af37\dbch\af31505\loch\f37 imply means that the data type of}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid10627628 
+\hich\af37\dbch\af31505\loch\f37  any variable }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid13775013 \hich\af37\dbch\af31505\loch\f37 is determined at the }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\b\f37\fs48\lang9\langfe16393\langnp9\insrsid13775013\charrsid13775013 \hich\af37\dbch\af31505\loch\f37 runtime}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid13775013 \hich\af37\dbch\af31505\loch\f37  
+\hich\af37\dbch\af31505\loch\f37 , not at the compile time. }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid12848467 \hich\af37\dbch\af31505\loch\f37 Which helps to fixes the problem at the time of 
+\hich\af37\dbch\af31505\loch\f37 writing\hich\af37\dbch\af31505\loch\f37  }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid5514294 \hich\af37\dbch\af31505\loch\f37 the codes. Therefore, we \hich\af37\dbch\af31505\loch\f37 
+can not specify the t\hich\af37\dbch\af31505\loch\f37 ype of a variabl\hich\af37\dbch\af31505\loch\f37 e\hich\af37\dbch\af31505\loch\f37  before ass\hich\af37\dbch\af31505\loch\f37 i\hich\af37\dbch\af31505\loch\f37 g\hich\af37\dbch\af31505\loch\f37 n
+\hich\af37\dbch\af31505\loch\f37 in\hich\af37\dbch\af31505\loch\f37 g\hich\af37\dbch\af31505\loch\f37  }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid22047 \hich\af37\dbch\af31505\loch\f37 a value into it.
+\par 
+\par \hich\af37\dbch\af31505\loch\f37 However,\hich\af37\dbch\af31505\loch\f37  we can use }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid22047 \hich\af37\dbch\af31505\loch\f37 type annotations }{\rtlch\fcs1 \af37\afs48 
+\ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid22047\charrsid22047 \hich\af37\dbch\af31505\loch\f37 or}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid22047 \hich\af37\dbch\af31505\loch\f37  type
+\hich\af37\dbch\af31505\loch\f37  hints }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid22047 \hich\af37\dbch\af31505\loch\f37 to indicate the expected type of a variable or a function parameter or return value.
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid22047\charrsid22047 \hich\af37\dbch\af31505\loch\f37 T}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid22047\charrsid22047 
+\hich\af37\dbch\af31505\loch\f37 ype annotations}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid22047\charrsid22047 \hich\af37\dbch\af31505\loch\f37  }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 
+\f37\fs48\lang9\langfe16393\langnp9\insrsid22047 \hich\af37\dbch\af31505\loch\f37 are \hich\af37\dbch\af31505\loch\f37 opt\hich\af37\dbch\af31505\loch\f37 ional and do not\hich\af37\dbch\af31505\loch\f37  \hich\af37\dbch\af31505\loch\f37 affect 
+\hich\af37\dbch\af31505\loch\f37 the\hich\af37\dbch\af31505\loch\f37  \hich\af37\dbch\af31505\loch\f37 actual \hich\af37\dbch\af31505\loch\f37 execution of the \hich\af37\dbch\af31505\loch\f37 code \hich\af37\dbch\af31505\loch\f37 , but t
+\hich\af37\dbch\af31505\loch\f37 hey can help with the code re\hich\af37\dbch\af31505\loch\f37 a\hich\af37\dbch\af31505\loch\f37 dability \hich\af37\dbch\af31505\loch\f37 , documentation , and \hich\af37\dbch\af31505\loch\f37 static analysis 
+\hich\af37\dbch\af31505\loch\f37 tools. 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\ul\lang9\langfe16393\langnp9\insrsid12344253 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\ul\lang9\langfe16393\langnp9\insrsid22047\charrsid22047 \hich\af37\dbch\af31505\loch\f37 How to use that}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid22047 
+\hich\af37\dbch\af31505\loch\f37  }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid22047\charrsid22047 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 24}{\fldrslt\f10\fs48}}}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 
+\f37\fs48\lang9\langfe16393\langnp9\insrsid22047 
+\par }\pard \ltrpar\ql \li0\ri0\sl285\slmult0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12344253 \cbpat18 {\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs30\cf19\insrsid12344253\charrsid12344253 
+# decalre the type of the variable }{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs30\cf20\insrsid12344253\charrsid12344253 
+\par }{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs30\cf21\insrsid12344253\charrsid12344253 x}{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs30\cf20\insrsid12344253\charrsid12344253  : }{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 
+\f39\fs30\cf22\insrsid12344253\charrsid12344253 int}{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs30\cf20\insrsid12344253\charrsid12344253 
+\par 
+\par }{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs30\cf19\insrsid12344253\charrsid12344253 # assign value to the variable }{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs30\cf20\insrsid12344253\charrsid12344253 
+\par }{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs30\cf21\insrsid12344253\charrsid12344253 x}{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs30\cf20\insrsid12344253\charrsid12344253  = }{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 
+\f39\fs30\cf23\insrsid12344253\charrsid12344253 10}{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs30\cf20\insrsid12344253\charrsid12344253  
+\par 
+\par }{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs30\cf19\insrsid12344253\charrsid12344253 #print the type and value of the varaible }{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs30\cf20\insrsid12344253\charrsid12344253 
+\par }{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs30\cf24\insrsid12344253\charrsid12344253 print}{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs30\cf20\insrsid12344253\charrsid12344253 (}{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 
+\f39\fs30\cf22\insrsid12344253\charrsid12344253 type}{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs30\cf20\insrsid12344253\charrsid12344253 (}{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs30\cf21\insrsid12344253\charrsid12344253 x}{\rtlch\fcs1 \af0\afs21 
+\ltrch\fcs0 \f39\fs30\cf20\insrsid12344253\charrsid12344253 ) , }{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs30\cf21\insrsid12344253\charrsid12344253 x}{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs30\cf20\insrsid12344253\charrsid12344253 )
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid12344253 \hich\af37\dbch\af31505\loch\f37 
+Note that the type of annotation does not \hich\af37\dbch\af31505\loch\f37 e\hich\af37\dbch\af31505\loch\f37 nforce the type of the variable.\hich\af37\dbch\af31505\loch\f37  We can still \hich\af37\dbch\af31505\loch\f37 
+assign a value of diff. type to the same varibale later.}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid22047 
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid12344253\charrsid12344253 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 24}{\fldrslt\f10\fs48}}}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 
+\f37\fs48\lang9\langfe16393\langnp9\insrsid12344253 
+\par }\pard \ltrpar\ql \li0\ri0\sl285\slmult0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid536300 \cbpat18 {\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs34\cf19\insrsid536300\charrsid536300 
+#check if the value of the variable is int }{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs34\cf20\insrsid536300\charrsid536300 
+\par }{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs34\cf24\insrsid536300\charrsid536300 print}{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs34\cf20\insrsid536300\charrsid536300 (}{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs34\cf22\insrsid536300\charrsid536300 type}{
+\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs34\cf20\insrsid536300\charrsid536300 (}{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs34\cf21\insrsid536300\charrsid536300 x}{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs34\cf20\insrsid536300\charrsid536300 ) }{
+\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs34\cf25\insrsid536300\charrsid536300 is}{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs34\cf20\insrsid536300\charrsid536300  }{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs34\cf22\insrsid536300\charrsid536300 int}{
+\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs34\cf20\insrsid536300\charrsid536300 )
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid12344253\charrsid22047 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \ab\ai\af37\afs48 \ltrch\fcs0 \f3\fs48\lang9\langfe16393\langnp9\insrsid11297881\charrsid11297881 \loch\af3\dbch\af31505\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\sa200\sl276\slmult1
+\nowidctlpar\wrapdefault\faauto\ls7\rin0\lin720\itap0\pararsid11297881 {\rtlch\fcs1 \ab\ai\af37\afs48 \ltrch\fcs0 \b\i\f37\fs48\ul\lang9\langfe16393\langnp9\insrsid11297881\charrsid11297881 \hich\af37\dbch\af31505\loch\f37 Runtime and Compile 
+\hich\af37\dbch\af31505\loch\f37 time}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid11297881 .
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid16278730 \hich\af37\dbch\af31505\loch\f37 Python is interpreted 
+\hich\af37\dbch\af31505\loch\f37 lan\hich\af37\dbch\af31505\loch\f37 guage which means t\hich\af37\dbch\af31505\loch\f37 hat \hich\af37\dbch\af31505\loch\f37 it does not have \hich\af37\dbch\af31505\loch\f37 the\hich\af37\dbch\af31505\loch\f37  
+\hich\af37\dbch\af31505\loch\f37 sepa}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid11297881 \hich\af37\dbch\af31505\loch\f37 rated runtime and \hich\af37\dbch\af31505\loch\f37 compile time. Inst
+\hich\af37\dbch\af31505\loch\f37 ea\hich\af37\dbch\af31505\loch\f37 d , Python code is executed line by line by an\hich\af37\dbch\af31505\loch\f37  interp\hich\af37\dbch\af31505\loch\f37 reter, which performs bo\hich\af37\dbch\af31505\loch\f37 th syntax 
+\hich\af37\dbch\af31505\loch\f37 syntax checking and execution at the same time. }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid16278730 
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid11297881 \hich\af37\dbch\af31505\loch\f37 This does not mean that python does not have \hich\af37\dbch\af31505\loch\f37 
+any compile-time or runtime errors. Python still has some error that are detected before the execution of code , such as syntax error \hich\af37\dbch\af31505\loch\f37 , inde\hich\af37\dbch\af31505\loch\f37 n\hich\af37\dbch\af31505\loch\f37 tation
+\hich\af37\dbch\af31505\loch\f37  error , or name errors.
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid14418778 \hich\af37\dbch\af31505\loch\f37 They are reported by the i\hich\af37\dbch\af31505\loch\f37 nterpreter \hich\af37\dbch\af31505\loch\f37 with the line 
+\hich\af37\dbch\af31505\loch\f37 number and the error message.}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid11297881\charrsid13775013 
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 *To count the length of the string/variable we use the function - }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\b\f37\fs48\ul\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 len}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\ul\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 ( )}{\rtlch\fcs1 \af37\afs48 
+\ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37  this count the length....ex- len(jb).
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\ul\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 Type Error}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 
+\hich\af37\dbch\af31505\loch\f37  - When we sum different data type variables for ex - 
+\par \hich\af37\dbch\af31505\loch\f37 a=2
+\par \hich\af37\dbch\af31505\loch\f37 b=hello
+\par \hich\af37\dbch\af31505\loch\f37 print(a+b\hich\af37\dbch\af31505\loch\f37 )
+\par \hich\af37\dbch\af31505\loch\f37 Hence , it will show the Type Error  : unsupported operand type.
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid10380819 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 
+Input Function will take everything stored in it as a string untill we sum two r more data type variables.
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 
+Name of the variables can contain a-z A-Z 0-9 _ only. A variable name can't be sta\hich\af37\dbch\af31505\loch\f37 rted from number.
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 Cammal Case }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 
+\hich\af37\dbch\af31505\loch\f37 - myName , theVariable , secondAge.
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 Snake Case }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 
+\hich\af37\dbch\af31505\loch\f37 - my_name, the_variable, second_age.
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 Pascal Case }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 
+\hich\af37\dbch\af31505\loch\f37 - MyName , MyVariable , SecondAge.
+\par \hich\af37\dbch\af31505\loch\f37 Python is a Case-Senstive Language.
+\par \hich\af37\dbch\af31505\loch\f37 Class is a reserved name for any variable in python we can;\hich\af37\dbch\af31505\loch\f37 t use that.}{\rtlch\fcs1 \ab\af37\afs72 \ltrch\fcs0 \b\f37\fs72\lang9\langfe16393\langnp9\insrsid749949 
+\par \tab \tab }{\rtlch\fcs1 \ab\af37\afs72 \ltrch\fcs0 \b\f37\fs72\ul\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 Primitive Data Type}{\rtlch\fcs1 \af37\afs72 \ltrch\fcs0 \f37\fs72\lang9\langfe16393\langnp9\insrsid749949 
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 
+In python we dont need to mention the data type of the variable it get it by it self.There's a function in python to check the data type - }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 
+\hich\af37\dbch\af31505\loch\f37 type( ) }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 it checks the data type of th variable. For ex- va_2= 23
+\par \hich\af37\dbch\af31505\loch\f37 print(type(va_2)) \hich\af37\dbch\af31505\loch\f37 ==>> the output will be <class 'int'>
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\ul\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 Name Error}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 
+\hich\af37\dbch\af31505\loch\f37  - Declared a variable with a name and entering any different name(which is not defined yet) it's known as }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 
+\hich\af37\dbch\af31505\loch\f37 NameError}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 .
+\par 
+\par \hich\af37\dbch\af31505\loch\f37 * }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 Array Type 
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 name="aditya"
+\par \hich\af37\dbch\af31505\loch\f37 print(name[0])
+\par \hich\af37\dbch\af31505\loch\f37 Output= a 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 print("Adi's learning Python "Langu\hich\af37\dbch\af31505\loch\f37 age" ")
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 this will not print exact the same to avoid that issue we can use \\ sign to ignore it.Rephrasing it - }{\rtlch\fcs1 \ab\af37\afs48 
+\ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 print("Adi\\'s learning the Python \\"Language\\" ")
+\par \hich\af37\dbch\af31505\loch\f37 print(6 * "Adi\\'s learning the Python \\"Language\\" ")}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 
+\par \hich\af37\dbch\af31505\loch\f37 This will print the thing according to the\hich\af37\dbch\af31505\loch\f37  number's value.
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 true}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 
+ will not be defined as a string , if we will check it's type it will show the }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 NameError}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 
+\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37  because }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 True }{\rtlch\fcs1 \af37\afs48 
+\ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 is declared a boolean value and python is a case senstive language.
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \tab \tab \tab \tab }{\rtlch\fcs1 \ab\af37\afs72 \ltrch\fcs0 \b\f37\fs72\ul\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 
+Type Conversion}{\rtlch\fcs1 \af37\afs72 \ltrch\fcs0 \f37\fs72\lang9\langfe16393\langnp9\insrsid749949 
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 All the data is stored by default in str.
+\par \hich\af37\dbch\af31505\loch\f37 We can change it's data type using data type name function - to convert any data into str we use }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 
+\hich\af37\dbch\af31505\loch\f37 str() .}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 
+\par \hich\af37\dbch\af31505\loch\f37 For ex - print(10 + " 10 ")
+\par \hich\af37\dbch\af31505\loch\f37 it will show the error because the second 10 is by default stored as a string , we can change it's type like this - int(10).
+\par \hich\af37\dbch\af31505\loch\f37 print(10 + int(10))
+\par \hich\af37\dbch\af31505\loch\f37 now it will show the output 20 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\ul\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 Value Error}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 
+\hich\af37\dbch\af31505\loch\f37  - It will be shown up when we mention the wrong data type to execute.For ex - name="adi"
+\par \hich\af37\dbch\af31505\loch\f37 print(10 + int(name))
+\par \hich\af37\dbch\af31505\loch\f37 It will show the }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\ul\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 Value Type Error}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 
+\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37  : invalid literal for int( ).
+\par \hich\af37\dbch\af31505\loch\f37 To correct it -name="32"
+\par \hich\af37\dbch\af31505\loch\f37 print(10 + int(name))
+\par \hich\af37\dbch\af31505\loch\f37 The Output will be - 42
+\par 
+\par \tab \tab \tab \tab }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 Sample Project - 1}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 
+
+\par \hich\af37\dbch\af31505\loch\f37 Take two numbers from the user , sum the int and print it.
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\ul\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 Solution -->
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 h=input("Enter a number")
+\par \hich\af37\dbch\af31505\loch\f37 g=input("Enter second number")
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\ul\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 ab=int(g)+int(h) w}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 
+\par \hich\af37\dbch\af31505\loch\f37 print("Your F\hich\af37\dbch\af31505\loch\f37 inal value is " + str(ab))}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 
+\par 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \tab \tab \tab \hich\af37\dbch\af31505\loch\f37 Sample Project - 2}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 
+\par \hich\af37\dbch\af31505\loch\f37 Take two digit numbers from the user , sum the values and print it.
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 numb_1=input("enter two digit number")
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\ul\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 ad=numb_1[0]
+\par \hich\af37\dbch\af31505\loch\f37 ad2=numb_1[1]
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 sum=int(ad) + int(ad2)
+\par \hich\af37\dbch\af31505\loch\f37 print("The sum is = " + str(sum))
+\par 
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \tab \tab }{\rtlch\fcs1 \ab\af37\afs72 \ltrch\fcs0 \b\f37\fs72\ul\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 Operators in
+\hich\af37\dbch\af31505\loch\f37  Python
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 i.\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault{\*\pn 
+\pnlvlbody\ilvl0\ls1\pnrnot0\pnlcrm\pnf37\pnstart1 {\pntxta .}}\faauto\ls1\rin0\lin720\itap0\pararsid6363307 {\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 Arithmetic 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 ii.\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault{\*\pn 
+\pnlvlbody\ilvl0\ls1\pnrnot0\pnlcrm\pnf37\pnstart1 {\pntxta .}}\faauto\ls1\rin0\lin720\itap0\pararsid6363307 {\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 
+Comparison(Relational)
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 iii.\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault{\*\pn 
+\pnlvlbody\ilvl0\ls1\pnrnot0\pnlcrm\pnf37\pnstart1 {\pntxta .}}\faauto\ls1\rin0\lin720\itap0\pararsid6363307 {\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 Logical
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 iv.\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault{\*\pn 
+\pnlvlbody\ilvl0\ls1\pnrnot0\pnlcrm\pnf37\pnstart1 {\pntxta .}}\faauto\ls1\rin0\lin720\itap0\pararsid6363307 {\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 Bitwise
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 v.\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault{\*\pn 
+\pnlvlbody\ilvl0\ls1\pnrnot0\pnlcrm\pnf37\pnstart1 {\pntxta .}}\faauto\ls1\rin0\lin720\itap0\pararsid6363307 {\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 Assignment
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 vi.\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault{\*\pn 
+\pnlvlbody\ilvl0\ls1\pnrnot0\pnlcrm\pnf37\pnstart1 {\pntxta .}}\faauto\ls1\rin0\lin720\itap0\pararsid6363307 {\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 Identity
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 vii.\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault{\*\pn 
+\pnlvlbody\ilvl0\ls1\pnrnot0\pnlcrm\pnf37\pnstart1 {\pntxta .}}\faauto\ls1\rin0\lin720\itap0\pararsid6363307 {\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 Membership
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \tab \tab \tab \tab }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\ul\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 Arithmetic
+
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 / This\hich\af37\dbch\af31505\loch\f37 
+ sign divides the number and gives the output in float. Even though it divides completely.If we want the answer in int the we ll use the }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 
+\hich\af37\dbch\af31505\loch\f37 floor division }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 // this is }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 floor division }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 it gives the output in int.
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid1535361 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid1535361 \hich\af37\dbch\af31505\loch\f37 *}{\rtlch\fcs1 
+\af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37  To power any number we use the ** times (e\hich\af37\dbch\af31505\loch\f37 x- in maths = 3^2)in python 3**2 
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid1535361 \hich\af37\dbch\af31505\loch\f37 ex- print(2**3}{\rtlch\fcs1 \af37\afs48 
+\ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 )
+\par \hich\af37\dbch\af31505\loch\f37 8
+\par 
+\par \hich\af37\dbch\af31505\loch\f37 Precedence chart for Arithmetic (bodmas rule in maths) = 
+\par \hich\af37\dbch\af31505\loch\f37 ( ) \tab - first the numbers in the bracket
+\par \hich\af37\dbch\af31505\loch\f37 * *  - second the powers 
+\par \hich\af37\dbch\af31505\loch\f37 * \tab /\tab //\tab % 
+\par \hich\af37\dbch\af31505\loch\f37 +\tab -\tab = Subtraction at the last 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 PEMDAS
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid14226774 \hich\af37\dbch\af31505\loch\f37 P =}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid14226774 \hich\af37\dbch\af31505\loch\f37 
+ Parenthesis 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid14226774\charrsid14226774 \hich\af37\dbch\af31505\loch\f37 E}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid14226774 
+\hich\af37\dbch\af31505\loch\f37  = }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid14226774 \hich\af37\dbch\af31505\loch\f37 Exponents
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid14226774\charrsid14226774 \hich\af37\dbch\af31505\loch\f37 M}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid14226774 
+\hich\af37\dbch\af31505\loch\f37  = }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid14226774 \hich\af37\dbch\af31505\loch\f37 Multiplication 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid14226774 \hich\af37\dbch\af31505\loch\f37 D =}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid14226774 \hich\af37\dbch\af31505\loch\f37 
+ Division}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid14226774 \hich\af37\dbch\af31505\loch\f37 A = }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid14226774 \hich\af37\dbch\af31505\loch\f37 
+Addition }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid14226774\charrsid14226774 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid14226774 \hich\af37\dbch\af31505\loch\f37 S = }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid14226774\charrsid14226774 
+\hich\af37\dbch\af31505\loch\f37 Subtraction}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid14226774 
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid3744471 
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 \hich\af37\dbch\af31505\loch\f37 ex - 5+2*3-1+10/5
+\par \hich\af37\dbch\af31505\loch\f37 we will go from left to right which ever sign come first acco. to the PEDMAS rule python ll execute it first.}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid6833014 
+\hich\af37\dbch\af31505\loch\f37  For exponents it will be Right to Left.}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid749949 
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid6833014 \tab \tab \tab }{\rtlch\fcs1 \ab\ai\af37\afs48 \ltrch\fcs0 \b\i\f37\fs60\ul\lang9\langfe16393\langnp9\insrsid6833014\charrsid6833014 \hich\af37\dbch\af31505\loch\f37 
+Sample Question
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f3\fs48\lang9\langfe16393\langnp9\insrsid6833014 \loch\af3\dbch\af31505\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\sa200\sl276\slmult1
+\nowidctlpar\wrapdefault\faauto\ls4\rin0\lin720\itap0\pararsid6833014 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid6833014 \hich\af37\dbch\af31505\loch\f37 Th\hich\af37\dbch\af31505\loch\f37 
+e ans of this ex will be 12.0 change something in , without changing the numbers to have the ans of 11.0
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f3\fs48\lang9\langfe16393\langnp9\insrsid6817583 \loch\af3\dbch\af31505\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\sa200\sl276\slmult1
+\nowidctlpar\wrapdefault\faauto\ls4\rin0\lin720\itap0\pararsid6817583 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid6817583 \hich\af37\dbch\af31505\loch\f37 Calculate the }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\b\f37\fs48\ul\lang9\langfe16393\langnp9\insrsid6817583\charrsid6817583 \hich\af37\dbch\af31505\loch\f37 BMI}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\ul\lang9\langfe16393\langnp9\insrsid6817583\charrsid6817583 \hich\af37\dbch\af31505\loch\f37 
+(Body Mass Index)}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\ul\lang9\langfe16393\langnp9\insrsid6817583 ,}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid6817583 
+\par }\pard \ltrpar\ql \li360\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin360\itap0\pararsid6883259 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid6817583 \hich\af37\dbch\af31505\loch\f37 
+using the formula = (}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid6817583\charrsid6817583 \hich\af37\dbch\af31505\loch\f37 weight /}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 
+\b\f37\fs48\lang9\langfe16393\langnp9\insrsid6817583 \hich\af37\dbch\af31505\loch\f37 height^2)}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs48\lang9\langfe16393\langnp9\insrsid6883259 \hich\af37\dbch\af31505\loch\f37 . }{\rtlch\fcs1 \ab\af37\afs48 
+\ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid6883259 \hich\af37\dbch\af31505\loch\f37 Take the values from the user only.
+\par 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs48\lang9\langfe16393\langnp9\insrsid4348491 
+\par \tab \tab }{\rtlch\fcs1 \ai\af37\afs48 \ltrch\fcs0 \b\i\f37\fs68\ul\lang9\langfe16393\langnp9\insrsid4348491 \hich\af37\dbch\af31505\loch\f37 Assignment}{\rtlch\fcs1 \ai\af37\afs48 \ltrch\fcs0 \b\i\f37\fs68\lang9\langfe16393\langnp9\insrsid4348491 
+\hich\af37\dbch\af31505\loch\f37  }{\rtlch\fcs1 \ai\af37\afs48 \ltrch\fcs0 \b\i\f37\fs68\ul\lang9\langfe16393\langnp9\insrsid4348491 \hich\af37\dbch\af31505\loch\f37 Comparison
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid6489092 {\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs52\lang9\langfe16393\langnp9\insrsid6489092 \hich\af37\dbch\af31505\loch\f37 
+= stores the data in a variable , just the different types to store data in a variable.
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs52\lang9\langfe16393\langnp9\insrsid15159134\charrsid15159134 \hich\af37\dbch\af31505\loch\f37 If we are storing the data in any variable }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\f37\fs52\lang9\langfe16393\langnp9\insrsid15159134 \hich\af37\dbch\af31505\loch\f37 then }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs52\lang9\langfe16393\langnp9\insrsid15159134\charrsid15159134 \hich\af37\dbch\af31505\loch\f37 our }{\rtlch\fcs1 
+\ab\af37\afs48 \ltrch\fcs0 \f37\fs52\lang9\langfe16393\langnp9\insrsid15159134 \hich\af37\dbch\af31505\loch\f37 variable name ll always be on the left side of the screen or user. For ex= We wanna store 45 in a variable named }{\rtlch\fcs1 \af37\afs48 
+\ltrch\fcs0 \b\f37\fs52\lang9\langfe16393\langnp9\insrsid15159134 \hich\af37\dbch\af31505\loch\f37 r }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs52\lang9\langfe16393\langnp9\insrsid15159134 \hich\af37\dbch\af31505\loch\f37 t
+\hich\af37\dbch\af31505\loch\f37 hen we will be writing the variable on the left only. If we will be writing it in the alternative way then it ll be showing the }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 
+\b\f37\fs52\ul\lang9\langfe16393\langnp9\insrsid15159134\charrsid15159134 \hich\af37\dbch\af31505\loch\f37 Syntax Error}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs52\lang9\langfe16393\langnp9\insrsid15159134 .}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\f37\fs52\lang9\langfe16393\langnp9\insrsid15159134\charrsid15159134 
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs52\lang9\langfe16393\langnp9\insrsid6489092 \{}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs52\lang9\langfe16393\langnp9\insrsid6489092\charrsid15159134 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs52\lang9\langfe16393\langnp9\insrsid6489092 \hich\af37\dbch\af31505\loch\f37 a=5
+\par \hich\af37\dbch\af31505\loch\f37 a= a+5
+\par \hich\af37\dbch\af31505\loch\f37 a += 5 
+\par \hich\af37\dbch\af31505\loch\f37 += , -= , *= , /+ , //= , %= 
+\par \hich\af37\dbch\af31505\loch\f37 a,b,c = 5,8,3
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs52\lang9\langfe16393\langnp9\insrsid6489092 \}\hich\af37\dbch\af31505\loch\f37  = Short Hand Opreators }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs52\lang9\langfe16393\langnp9\insrsid6489092 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f3\fs52\lang9\langfe16393\langnp9\insrsid6489092\charrsid6489092 \loch\af3\dbch\af31505\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\sa200\sl276\slmult1
+\nowidctlpar\wrapdefault\faauto\ls4\rin0\lin720\itap0\pararsid6489092 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs52\ul\lang9\langfe16393\langnp9\insrsid6489092\charrsid6489092 \hich\af37\dbch\af31505\loch\f37 Comparison Opreators 
+\hich\af37\dbch\af31505\loch\f37 / Relational Operators}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs52\ul\lang9\langfe16393\langnp9\insrsid6489092 
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid6489092 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs52\lang9\langfe16393\langnp9\insrsid6489092\charrsid13130967 \{
+\par }\pard \ltrpar\ql \li720\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0\pararsid6489092 {\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs52\lang9\langfe16393\langnp9\insrsid13130967 \hich\af37\dbch\af31505\loch\f37 
+< , > , <= , >= , != , == }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs52\lang9\langfe16393\langnp9\insrsid6489092 
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs52\lang9\langfe16393\langnp9\insrsid13130967\charrsid13130967 \hich\af37\dbch\af31505\loch\f37 Ex= }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs52\lang9\langfe16393\langnp9\insrsid13130967 
+\hich\af37\dbch\af31505\loch\f37 a=5
+\par \hich\af37\dbch\af31505\loch\f37 p}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs52\lang9\langfe16393\langnp9\insrsid13130967\charrsid13130967 \hich\af37\dbch\af31505\loch\f37 rint(}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\f37\fs52\lang9\langfe16393\langnp9\insrsid13130967 \hich\af37\dbch\af31505\loch\f37 a<5) 
+\par \hich\af37\dbch\af31505\loch\f37 #hence it\hich\f37 \rquote \loch\f37 s false because a is equal to 5 so it will just print }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs52\lang9\langfe16393\langnp9\insrsid13130967 \hich\af37\dbch\af31505\loch\f37 False 
+}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs52\lang9\langfe16393\langnp9\insrsid13130967 \hich\af37\dbch\af31505\loch\f37 by default
+\par \hich\af37\dbch\af31505\loch\f37 print(a==5)
+\par \hich\af37\dbch\af31505\loch\f37 it ll just print }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs52\lang9\langfe16393\langnp9\insrsid13130967 \hich\af37\dbch\af31505\loch\f37 True }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\f37\fs52\lang9\langfe16393\langnp9\insrsid13130967 \hich\af37\dbch\af31505\loch\f37 as a is equal to 5.
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs52\lang9\langfe16393\langnp9\insrsid1316524 
+\par \tab \tab }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs52\ul\lang9\langfe16393\langnp9\insrsid1316524 \hich\af37\dbch\af31505\loch\f37 Output}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs52\lang9\langfe16393\langnp9\insrsid1316524 
+\hich\af37\dbch\af31505\loch\f37  }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs52\ul\lang9\langfe16393\langnp9\insrsid1316524 \hich\af37\dbch\af31505\loch\f37 Based}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 
+\b\f37\fs52\lang9\langfe16393\langnp9\insrsid1316524 \hich\af37\dbch\af31505\loch\f37  }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs52\ul\lang9\langfe16393\langnp9\insrsid1316524 \hich\af37\dbch\af31505\loch\f37 Question
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f3\fs52\lang9\langfe16393\langnp9\insrsid1316524\charrsid1316524 \loch\af3\dbch\af31505\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\sa200\sl276\slmult1
+\nowidctlpar\wrapdefault\faauto\ls4\rin0\lin720\itap0\pararsid1316524 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs52\ul\lang9\langfe16393\langnp9\insrsid1316524\charrsid1316524 
+\par }\pard \ltrpar\ql \li720\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0\pararsid1316524 {\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs52\lang9\langfe16393\langnp9\insrsid1316524\charrsid14507794 \hich\af37\dbch\af31505\loch\f37 
+r,t=9,3}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs52\ul\lang9\langfe16393\langnp9\insrsid1316524\charrsid14507794 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs52\lang9\langfe16393\langnp9\insrsid1316524\charrsid14507794 \hich\af37\dbch\af31505\loch\f37 w=r+t
+\par \hich\af37\dbch\af31505\loch\f37 r += 4
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs52\lang9\langfe16393\langnp9\insrsid14507794\charrsid14507794 \hich\af37\dbch\af31505\loch\f37 w += r}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\f37\fs52\lang9\langfe16393\langnp9\insrsid1316524\charrsid14507794 
+\par }\pard \ltrpar\ql \li720\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0\pararsid2648804 {\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs52\lang9\langfe16393\langnp9\insrsid2648804 \hich\af37\dbch\af31505\loch\f37 print(w)}{
+\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs52\lang9\langfe16393\langnp9\insrsid6447620\charrsid2648804 
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid2172420 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs90\ul\lang9\langfe16393\langnp9\insrsid2172420\charrsid2172420 \hich\af37\dbch\af31505\loch\f37 
+Conditional Statements}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs90\lang9\langfe16393\langnp9\insrsid2172420\charrsid2172420 \hich\af37\dbch\af31505\loch\f37  }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\f37\fs90\lang9\langfe16393\langnp9\insrsid2172420 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f3\fs54\lang9\langfe16393\langnp9\insrsid2172420 \loch\af3\dbch\af31505\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\sa200\sl276\slmult1
+\nowidctlpar\wrapdefault\faauto\ls4\rin0\lin720\itap0\pararsid2172420 {\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid2172420 \hich\af37\dbch\af31505\loch\f37  if else , if elif}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 
+\b\f37\fs54\ul\lang9\langfe16393\langnp9\insrsid2172420\charrsid2172420 
+\par }\pard \ltrpar\ql \li720\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0\pararsid1782286 {\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid2172420 \hich\af37\dbch\af31505\loch\f37 
+if and else are conditional statements in python that allow you to control the flow of program based on the evaluation of a condition.
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid1782286 {\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid1782286 \hich\af37\dbch\af31505\loch\f37 if 
+\hich\af37\dbch\af31505\loch\f37 statements are used to check the statement is true or false if the statement is true the code inside the }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid5903895 
+\hich\af37\dbch\af31505\loch\f37 if block will be executed if the condition with the if case is false the loop will not enter the if statement block it will directly go inside the else\hich\af37\dbch\af31505\loch\f37 
+ block code , if the programmer used just if and else}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid16322393 \hich\af37\dbch\af31505\loch\f37 
+ statement. if else conditions will be only checked once if not used inside any loop }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid15668674 \hich\af37\dbch\af31505\loch\f37 (for , while , do while) }{\rtlch\fcs1 
+\ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid5389701 \hich\af37\dbch\af31505\loch\f37 the interpreter will check it one time and then directly exit the whole block. Only \hich\af37\dbch\af31505\loch\f37 
+one statement will be true in if else either if or else , both statement}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid2907770 \hich\af37\dbch\af31505\loch\f37 s can never be true at one time. }{\rtlch\fcs1 
+\ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid5389701 
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid13124833\charrsid13124833 \hich\af37\dbch\af31505\loch\f37 Syntax }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid2388982 
+\loch\af37\dbch\af31505\hich\f37 \endash }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid13124833\charrsid13124833 \hich\af37\dbch\af31505\loch\f37  }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 
+\b\f37\fs54\lang9\langfe16393\langnp9\insrsid2388982 
+\par }\pard \ltrpar\ql \li1440\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin1440\itap0\pararsid2388982 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid2388982 \hich\af37\dbch\af31505\loch\f37   }{\rtlch\fcs1 
+\ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid13124833\charrsid13124833 \hich\af37\dbch\af31505\loch\f37 if}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid13124833 
+\hich\af37\dbch\af31505\loch\f37  (condition to be checked):
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid1782286 {\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid13124833 \tab \tab \hich\af37\dbch\af31505\loch\f37   ____code
+
+\par \tab \tab \hich\af37\dbch\af31505\loch\f37   else(condition no mandatory):
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx8490\wrapdefault\faauto\rin0\lin0\itap0\pararsid2388982 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid7873954 \tab 
+\tab \hich\af37\dbch\af31505\loch\f37   }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid7873954 \hich\af37\dbch\af31505\loch\f37 ____code}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\f37\fs54\lang9\langfe16393\langnp9\insrsid2388982 
+\par \tab \tab }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid13124833 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid2388982 \tab \tab \hich\af37\dbch\af31505\loch\f37 _ = indent }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid2388982\charrsid13124833 
+
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid2388982 {\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid2388982 
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid2388982\charrsid2388982 \hich\af37\dbch\af31505\loch\f37 Ex }{\rtlch\fcs1 \af37\afs54 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid2388982\charrsid2388982 
+{\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 27}{\fldrslt\f10\fs54}}}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid2388982 
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl285\slmult0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2388982 \cbpat18 {\rtlch\fcs1 \af24\afs21 \ltrch\fcs0 \f39\fs50\cf21\insrsid2388982\charrsid4086894 
+\hich\af39\dbch\af31505\loch\f39 var}{\rtlch\fcs1 \af24\afs21 \ltrch\fcs0 \f39\fs50\cf20\insrsid2388982\charrsid4086894 \hich\af39\dbch\af31505\loch\f39  = }{\rtlch\fcs1 \af24\afs21 \ltrch\fcs0 \f39\fs50\cf22\insrsid2388982\charrsid4086894 
+\hich\af39\dbch\af31505\loch\f39 int}{\rtlch\fcs1 \af24\afs21 \ltrch\fcs0 \f39\fs50\cf20\insrsid2388982\charrsid4086894 \hich\af39\dbch\af31505\loch\f39 (}{\rtlch\fcs1 \af24\afs21 \ltrch\fcs0 \f39\fs50\cf24\insrsid2388982\charrsid4086894 
+\hich\af39\dbch\af31505\loch\f39 input}{\rtlch\fcs1 \af24\afs21 \ltrch\fcs0 \f39\fs50\cf20\insrsid2388982\charrsid4086894 \hich\af39\dbch\af31505\loch\f39 (}{\rtlch\fcs1 \af24\afs21 \ltrch\fcs0 \f39\fs50\cf26\insrsid2388982\charrsid4086894 
+\hich\af39\dbch\af31505\loch\f39 "ENter a integer"}{\rtlch\fcs1 \af24\afs21 \ltrch\fcs0 \f39\fs50\cf20\insrsid2388982\charrsid4086894 \hich\af39\dbch\af31505\loch\f39 ))
+\par }{\rtlch\fcs1 \af24\afs21 \ltrch\fcs0 \f39\fs50\cf21\insrsid2388982\charrsid4086894 \hich\af39\dbch\af31505\loch\f39 ar}{\rtlch\fcs1 \af24\afs21 \ltrch\fcs0 \f39\fs50\cf20\insrsid2388982\charrsid4086894 \hich\af39\dbch\af31505\loch\f39  = }{\rtlch\fcs1 
+\af24\afs21 \ltrch\fcs0 \f39\fs50\cf22\insrsid2388982\charrsid4086894 \hich\af39\dbch\af31505\loch\f39 int}{\rtlch\fcs1 \af24\afs21 \ltrch\fcs0 \f39\fs50\cf20\insrsid2388982\charrsid4086894 \hich\af39\dbch\af31505\loch\f39 (}{\rtlch\fcs1 \af24\afs21 
+\ltrch\fcs0 \f39\fs50\cf24\insrsid2388982\charrsid4086894 \hich\af39\dbch\af31505\loch\f39 input}{\rtlch\fcs1 \af24\afs21 \ltrch\fcs0 \f39\fs50\cf20\insrsid2388982\charrsid4086894 \hich\af39\dbch\af31505\loch\f39 (}{\rtlch\fcs1 \af24\afs21 \ltrch\fcs0 
+\f39\fs50\cf26\insrsid2388982\charrsid4086894 \hich\af39\dbch\af31505\loch\f39 "ENter another integer"}{\rtlch\fcs1 \af24\afs21 \ltrch\fcs0 \f39\fs50\cf20\insrsid2388982\charrsid4086894 \hich\af39\dbch\af31505\loch\f39 ))
+\par }\pard \ltrpar\ql \li0\ri0\sl285\slmult0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4086894 \cbpat18 {\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs48\cf25\insrsid4086894\charrsid4086894 \hich\af39\dbch\af31505\loch\f39 
+if}{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs48\cf20\insrsid4086894\charrsid4086894 \hich\af39\dbch\af31505\loch\f39 (}{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs48\cf21\insrsid4086894\charrsid4086894 \hich\af39\dbch\af31505\loch\f39 ar}{\rtlch\fcs1 
+\af0\afs21 \ltrch\fcs0 \f39\fs48\cf20\insrsid4086894\charrsid4086894 \hich\af39\dbch\af31505\loch\f39  + }{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs48\cf21\insrsid4086894\charrsid4086894 \hich\af39\dbch\af31505\loch\f39 var}{\rtlch\fcs1 \af0\afs21 
+\ltrch\fcs0 \f39\fs48\cf20\insrsid4086894\charrsid4086894 \hich\af39\dbch\af31505\loch\f39  == }{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs48\cf23\insrsid4086894\charrsid4086894 \hich\af39\dbch\af31505\loch\f39 7}{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 
+\f39\fs48\cf20\insrsid4086894\charrsid4086894 \hich\af39\dbch\af31505\loch\f39  ):
+\par }{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs48\cf19\insrsid4086894\charrsid4086894 \hich\af39\dbch\af31505\loch\f39 #it will add both the integres took by the user and check it with 7}{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 
+\f39\fs48\cf20\insrsid4086894\charrsid4086894 
+\par \~\hich\af39\dbch\af31505\loch\f39  \~ }{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs48\cf24\insrsid4086894\charrsid4086894 \hich\af39\dbch\af31505\loch\f39 print}{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs48\cf20\insrsid4086894\charrsid4086894 
+\hich\af39\dbch\af31505\loch\f39 (}{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs48\cf26\insrsid4086894\charrsid4086894 \hich\af39\dbch\af31505\loch\f39 "Statement True"}{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs48\cf20\insrsid4086894\charrsid4086894 
+\hich\af39\dbch\af31505\loch\f39 )
+\par }{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs48\cf25\insrsid4086894\charrsid4086894 \hich\af39\dbch\af31505\loch\f39 else}{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs48\cf20\insrsid4086894\charrsid4086894 \hich\af39\dbch\af31505\loch\f39 :
+\par \~\hich\af39\dbch\af31505\loch\f39  \~ }{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs48\cf24\insrsid4086894\charrsid4086894 \hich\af39\dbch\af31505\loch\f39 print}{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs48\cf20\insrsid4086894\charrsid4086894 
+\hich\af39\dbch\af31505\loch\f39 (}{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs48\cf26\insrsid4086894\charrsid4086894 \hich\af39\dbch\af31505\loch\f39 "False Statement"}{\rtlch\fcs1 \af0\afs21 \ltrch\fcs0 \f39\fs48\cf20\insrsid4086894\charrsid4086894 
+\hich\af39\dbch\af31505\loch\f39 )
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl285\slmult0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2388982 \cbpat18 {\rtlch\fcs1 \af24\afs21 \ltrch\fcs0 \f39\fs54\cf20\insrsid1268210 
+\par }{\rtlch\fcs1 \af24\afs21 \ltrch\fcs0 \f39\fs50\cf20\insrsid1268210\charrsid4086894 \hich\af39\dbch\af31505\loch\f39 #output = 
+\par \{
+\par \tab }{\rtlch\fcs1 \af24\afs21 \ltrch\fcs0 \f39\fs50\cf26\insrsid1268210\charrsid4086894 \hich\af39\dbch\af31505\loch\f39 ENter a integer = 3
+\par }{\rtlch\fcs1 \af24\afs21 \ltrch\fcs0 \f39\fs50\cf20\insrsid1268210\charrsid4086894 \hich\af39\dbch\af31505\loch\f39  \tab }{\rtlch\fcs1 \af24\afs21 \ltrch\fcs0 \f39\fs50\cf26\insrsid1268210\charrsid4086894 \hich\af39\dbch\af31505\loch\f39 
+ENter another integer = 4
+\par \tab \hich\af39\dbch\af31505\loch\f39 Statement True}{\rtlch\fcs1 \af24\afs21 \ltrch\fcs0 \f39\fs50\cf20\insrsid1268210\charrsid4086894 
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid12457453 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\ul\lang9\langfe16393\langnp9\insrsid12457453 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f3\fs54\lang9\langfe16393\langnp9\insrsid12457453\charrsid12457453 \loch\af3\dbch\af31505\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\sa200\sl276\slmult1
+\nowidctlpar\wrapdefault\faauto\ls4\rin0\lin720\itap0\pararsid12457453 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid12457453\charrsid12457453 \hich\af37\dbch\af31505\loch\f37  }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 
+\f37\fs60\lang9\langfe16393\langnp9\insrsid12457453 \hich\af37\dbch\af31505\loch\f37 if elif}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs64\lang9\langfe16393\langnp9\insrsid12457453\charrsid12457453 
+\par }\pard \ltrpar\ql \li720\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin720\itap0\pararsid12457453 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f37\fs64\lang9\langfe16393\langnp9\insrsid12457453\charrsid12457453 
+\par }\pard \ltrpar\ql \li2880\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin2880\itap0\pararsid1268210 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs104\ul\lang9\langfe16393\langnp9\insrsid6447620 \hich\af37\dbch\af31505\loch\f37 Looping
+
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid7425748 {\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid7425748 \hich\af37\dbch\af31505\loch\f37 As we\hich\f37 
+\rquote \loch\f37 ll learn the program will go like }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid7425748 \hich\af37\dbch\af31505\loch\f37 I}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 
+\b\f37\fs54\lang9\langfe16393\langnp9\insrsid7425748\charrsid12144806 \hich\af37\dbch\af31505\loch\f37 nitialize}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid7425748 \hich\af37\dbch\af31505\loch\f37  }{\rtlch\fcs1 
+\ab\af37\afs54 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid7425748\charrsid12144806 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 27}{\fldrslt\f10\fs54}}}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\f37\fs54\lang9\langfe16393\langnp9\insrsid7425748 \hich\af37\dbch\af31505\loch\f37  }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid7425748\charrsid12144806 \hich\af37\dbch\af31505\loch\f37 Range}{\rtlch\fcs1 
+\af37\afs48 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid7425748 \hich\af37\dbch\af31505\loch\f37  }{\rtlch\fcs1 \af37\afs54 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid7425748\charrsid12144806 {\field{\*\fldinst SYMBOL 224 \\f "W
+ingdings" \\s 27}{\fldrslt\f10\fs54}}}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid7425748 \hich\af37\dbch\af31505\loch\f37  Step }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\f37\fs54\lang9\langfe16393\langnp9\insrsid7425748 \hich\af37\dbch\af31505\loch\f37 but at the time of debugging the program for the programmer or the interpreter every single time it will executed \hich\f37 \endash \loch\f37  
+\par \hich\af37\dbch\af31505\loch\f37 Firstly at any program in any loop the initialization condition will be checked then it will check the range condition if it\hich\f37 \rquote \loch\f37 ll be true the\hich\af37\dbch\af31505\loch\f37 
+n it will directly enter the loop without going through the third(last/step condition) for ex- we have written print(variable) , so after the initialization of that variable and checking the range condition true it\hich\f37 \rquote \loch\f37 
+ll enter the loop and execute the inside\hich\af37\dbch\af31505\loch\f37  \hich\af37\dbch\af31505\loch\f37 code(here , print the desired output) , here it will print variable after than that it\hich\f37 \rquote \loch\f37 ll go through the 3}{\rtlch\fcs1 
+\ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\super\langnp9\insrsid7425748\charrsid5521414 \hich\af37\dbch\af31505\loch\f37 rd}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid7425748 
+\hich\af37\dbch\af31505\loch\f37  and condition(step condition) and will increment or decrement the desired variable. The process will keep on repeating until the range condition be\hich\af37\dbch\af31505\loch\f37 
+comes false , after the false condition it will exit the loop directly.
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid4355491 
+\par \hich\af37\dbch\af31505\loch\f37 Let\hich\f37 \rquote \loch\f37 s dive into looping in python so that this concept will be cleared also.
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid8793098\charrsid7425748 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \f3\fs84\lang9\langfe16393\langnp9\insrsid6447620 \loch\af3\dbch\af31505\hich\f3 \'b7\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\sa200\sl276\slmult1
+\nowidctlpar\wrapdefault\faauto\ls4\rin0\lin720\itap0\pararsid6447620 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs84\lang9\langfe16393\langnp9\insrsid6447620 \hich\af37\dbch\af31505\loch\f37 f}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 
+\b\f37\fs84\lang9\langfe16393\langnp9\insrsid6447620\charrsid6447620 \hich\af37\dbch\af31505\loch\f37 or }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs84\lang9\langfe16393\langnp9\insrsid6447620 \hich\af37\dbch\af31505\loch\f37 loop (range)
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid14356873 {\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid16742060\charrsid16742060 \hich\af37\dbch\af31505\loch\f37 A 
+}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs56\lang9\langfe16393\langnp9\insrsid16742060\charrsid8793098 \hich\af37\dbch\af31505\loch\f37 for loop}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\f37\fs56\lang9\langfe16393\langnp9\insrsid16742060\charrsid16742060 \hich\af37\dbch\af31505\loch\f37  is a }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid16742060 \hich\af37\dbch\af31505\loch\f37 
+way of repeating a block of code a fixed number of times o}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid14356873 \hich\af37\dbch\af31505\loch\f37 r for each element in sequence.}{\rtlch\fcs1 \ab\af37\afs48 
+\ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid6447620 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid14356873 \hich\af37\dbch\af31505\loch\f37 A }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs56\lang9\langfe16393\langnp9\insrsid14356873\charrsid14356873 
+\hich\af37\dbch\af31505\loch\f37 range}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid14356873 \hich\af37\dbch\af31505\loch\f37  is a }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\f37\fs56\lang9\langfe16393\langnp9\insrsid15685591 \hich\af37\dbch\af31505\loch\f37 built in function that returns a sequence of numbers from a starting value to and ending value , }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\f37\fs56\lang9\langfe16393\langnp9\insrsid6566542 \hich\af37\dbch\af31505\loch\f37 with an }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid13908952 \hich\af37\dbch\af31505\loch\f37 optional step size.}{\rtlch\fcs1 
+\ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid11864641 \hich\af37\dbch\af31505\loch\f37  Ex \hich\f37 \endash \loch\f37  }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs56\lang9\langfe16393\langnp9\insrsid11864641\charrsid11864641 
+\hich\af37\dbch\af31505\loch\f37 range(}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs56\lang9\langfe16393\langnp9\insrsid11864641 \hich\af37\dbch\af31505\loch\f37 6}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 
+\b\f37\fs56\lang9\langfe16393\langnp9\insrsid11864641\charrsid11864641 \hich\af37\dbch\af31505\loch\f37 )}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs56\lang9\langfe16393\langnp9\insrsid11864641 \hich\af37\dbch\af31505\loch\f37  }{\rtlch\fcs1 
+\ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid11864641 \hich\af37\dbch\af31505\loch\f37 returns the(print the) }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid15494679 
+\hich\af37\dbch\af31505\loch\f37 sequence 0,1,2,3,4,5}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid15222479 .}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid14356873 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid15222479 \hich\af37\dbch\af31505\loch\f37 You can use a for loop with range to iterate over the numbers in the sequence & perform some actions on each one.
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs56\lang9\langfe16393\langnp9\insrsid7164827\charrsid7164827 \hich\af37\dbch\af31505\loch\f37 Ex \hich\f37 \endash \loch\f37  for i in range(6):
+\par \tab \hich\af37\dbch\af31505\loch\f37  ____print(i)}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs56\lang9\langfe16393\langnp9\insrsid7164827 
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs56\lang9\langfe16393\langnp9\insrsid8666831 \hich\af37\dbch\af31505\loch\f37 The underscore(_) refers to indent(space left for the execution of the code)}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 
+\b\f37\fs56\lang9\langfe16393\langnp9\insrsid16212488 .}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs56\lang9\langfe16393\langnp9\insrsid8666831 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid7164827 \hich\af37\dbch\af31505\loch\f37 The variable i is called \hich\af37\dbch\af31505\loch\f37 loop variable or counter}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\f37\fs56\lang9\langfe16393\langnp9\insrsid11616073 .}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid13653022 \hich\af37\dbch\af31505\loch\f37 It takes on each value in range one by one}{\rtlch\fcs1 \ab\af37\afs48 
+\ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid8666831 \hich\af37\dbch\af31505\loch\f37 . The}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid16212488 \hich\af37\dbch\af31505\loch\f37 
+ code inside the loop will be indented by four spaces(indents) to indicate }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid7892443 \hich\af37\dbch\af31505\loch\f37 it belongs to th loop.}{\rtlch\fcs1 \ab\af37\afs48 
+\ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid7164827 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid7892443 \hich\af37\dbch\af31505\loch\f37 The loop ends when t}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid11161488 
+\hich\af37\dbch\af31505\loch\f37 here are n}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid11931652 \hich\af37\dbch\af31505\loch\f37 o values in the range}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\f37\fs56\lang9\langfe16393\langnp9\insrsid13570965 .}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid3022325 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid6844355 
+\par 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid3022325 \hich\af37\dbch\af31505\loch\f37 You can also specify the starting value and the step size of the range by using two or three arguments}{\rtlch\fcs1 
+\ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid5856976 \hich\af37\dbch\af31505\loch\f37 .Ex \hich\f37 \endash \loch\f37  }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs56\lang9\langfe16393\langnp9\insrsid5856976\charrsid6360155 
+\hich\af37\dbch\af31505\loch\f37 range(1,}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs56\lang9\langfe16393\langnp9\insrsid8142428 \hich\af37\dbch\af31505\loch\f37 6}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 
+\b\f37\fs56\lang9\langfe16393\langnp9\insrsid6360155\charrsid6360155 \hich\af37\dbch\af31505\loch\f37 )}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid6360155 \hich\af37\dbch\af31505\loch\f37  }{\rtlch\fcs1 
+\ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid8142428 \hich\af37\dbch\af31505\loch\f37 returns the sequenec}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid13239081 
+\hich\af37\dbch\af31505\loch\f37 es}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid8142428 \hich\af37\dbch\af31505\loch\f37  1,2,3,4,5 . And range(0,10,2) returns the sequence 0}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\f37\fs56\lang9\langfe16393\langnp9\insrsid3867503 \hich\af37\dbch\af31505\loch\f37 ,2,4,6,8,10}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid10237274 \hich\af37\dbch\af31505\loch\f37 . The ending value is always }{
+\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid9781407 \hich\af37\dbch\af31505\loch\f37  excluded from the sequence.}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid5856976 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid6844355 
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid6844355 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs56\ul\lang9\langfe16393\langnp9\insrsid6844355\charrsid6844355 \hich\af37\dbch\af31505\loch\f37 
+In simple language }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs56\ul\lang9\langfe16393\langnp9\insrsid6844355 \loch\af37\dbch\af31505\hich\f37 \endash }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid6844355 
+\hich\af37\dbch\af31505\loch\f37  For loop works with some more sequences one of them is }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs56\lang9\langfe16393\langnp9\insrsid6844355 \hich\af37\dbch\af31505\loch\f37 range }{\rtlch\fcs1 \ab\af37\afs48 
+\ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid6844355 \hich\af37\dbch\af31505\loch\f37 as mentioned.
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs56\ul\lang9\langfe16393\langnp9\insrsid6844355 \hich\af37\dbch\af31505\loch\f37 Syntax}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid6844355 
+\hich\af37\dbch\af31505\loch\f37  \hich\f37 \endash \loch\f37  }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid12784137 
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs46\lang9\langfe16393\langnp9\insrsid6844355\charrsid12784137 \hich\af37\dbch\af31505\loch\f37 for i}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs46\lang9\langfe16393\langnp9\insrsid12784137\charrsid12784137 
+\hich\af37\dbch\af31505\loch\f37  in }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs46\lang9\langfe16393\langnp9\insrsid6844355\charrsid12784137 \hich\af37\dbch\af31505\loch\f37 range}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 
+\b\f37\fs46\lang9\langfe16393\langnp9\insrsid12784137\charrsid12784137 \hich\af37\dbch\af31505\loch\f37  }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs46\lang9\langfe16393\langnp9\insrsid6844355\charrsid12784137 \hich\af37\dbch\af31505\loch\f37 (}{
+\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs46\lang9\langfe16393\langnp9\insrsid10959864 \hich\af37\dbch\af31505\loch\f37 initialization}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs46\lang9\langfe16393\langnp9\insrsid6844355\charrsid12784137 
+\hich\af37\dbch\af31505\loch\f37 ,range,gap(space)):
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid14356873 {\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs50\lang9\langfe16393\langnp9\insrsid2889746\charrsid12387437 \tab 
+\hich\af37\dbch\af31505\loch\f37 \hich\f37 code\'85\'85\'85\'85\'85\'85\'85\'85\'85}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs50\lang9\langfe16393\langnp9\insrsid6844355\charrsid12387437 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs50\lang9\langfe16393\langnp9\insrsid8131976\charrsid12387437 \hich\af37\dbch\af31505\loch\f37 ex \hich\f37 \endash \loch\f37  for i in range }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\f37\fs50\lang9\langfe16393\langnp9\insrsid9443814\charrsid12387437 \hich\af37\dbch\af31505\loch\f37 (}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs50\lang9\langfe16393\langnp9\insrsid12387437\charrsid12387437 \hich\af37\dbch\af31505\loch\f37 5)}{
+\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs50\lang9\langfe16393\langnp9\insrsid2889746\charrsid12387437 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs50\lang9\langfe16393\langnp9\insrsid12387437\charrsid12387437 \tab \tab \tab \hich\af37\dbch\af31505\loch\f37 print(\hich\f37 \lquote \loch\f37 Hellow World\hich\f37 \rquote \loch\f37 )
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid12387437 \hich\af37\dbch\af31505\loch\f37 #}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid1508956 \hich\af37\dbch\af31505\loch\f37 
+if anywhere the variable in used but no }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid10959864 \hich\af37\dbch\af31505\loch\f37 initialized}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\f37\fs56\lang9\langfe16393\langnp9\insrsid1508956 \hich\af37\dbch\af31505\loch\f37  , here i isn\hich\f37 \rquote \loch\f37 t}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid10451257 \hich\af37\dbch\af31505\loch\f37 
+ so p}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid13782853 \hich\af37\dbch\af31505\loch\f37 ython will already declare it 0. According to the syntax i is }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\f37\fs56\lang9\langfe16393\langnp9\insrsid10959864 \hich\af37\dbch\af31505\loch\f37 initialized}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid13782853 \hich\af37\dbch\af31505\loch\f37 
+ as zero the it will range the loop till 5. The loop will be executed }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid8329954 \hich\af37\dbch\af31505\loch\f37 5}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\f37\fs56\lang9\langfe16393\langnp9\insrsid729753 \hich\af37\dbch\af31505\loch\f37  times but 
+\par \hich\af37\dbch\af31505\loch\f37 The output will be = 
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs56\lang9\langfe16393\langnp9\insrsid729753 \hich\af37\dbch\af31505\loch\f37 Hellow World
+\par \hich\af37\dbch\af31505\loch\f37 Hellow World 
+\par \hich\af37\dbch\af31505\loch\f37 Hellow World 
+\par \hich\af37\dbch\af31505\loch\f37 Hellow World
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid8329954 \hich\af37\dbch\af31505\loch\f37 because }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid7672589 
+\hich\af37\dbch\af31505\loch\f37 the }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid8329954 \hich\af37\dbch\af31505\loch\f37 range }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\f37\fs56\lang9\langfe16393\langnp9\insrsid7672589 \hich\af37\dbch\af31505\loch\f37 of }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid8329954 \hich\af37\dbch\af31505\loch\f37 the loop }{\rtlch\fcs1 \ab\af37\afs48 
+\ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid7672589 \hich\af37\dbch\af31505\loch\f37 is }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid8329954 \hich\af37\dbch\af31505\loch\f37 till 5}{\rtlch\fcs1 
+\ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid14622976 \hich\af37\dbch\af31505\loch\f37  only}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid8329954 \hich\af37\dbch\af31505\loch\f37 
+ so the last operation (ex- i=4 , i<5) will be false }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid14568546 \hich\af37\dbch\af31505\loch\f37 , therefore it will termina}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\f37\fs56\lang9\langfe16393\langnp9\insrsid816013 \hich\af37\dbch\af31505\loch\f37 te the loop and will be stopped.}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid12387437 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid816013 
+\par \hich\af37\dbch\af31505\loch\f37 Ex \hich\f37 \endash \loch\f37  for i in range (1,6):
+\par \tab \tab }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid1010604 \tab \hich\af37\dbch\af31505\loch\f37 print(i)}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid816013 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid1275804 \hich\af37\dbch\af31505\loch\f37 # her\hich\af37\dbch\af31505\loch\f37 e i is }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\f37\fs56\lang9\langfe16393\langnp9\insrsid10959864 \hich\af37\dbch\af31505\loch\f37 initialized}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid1275804 \hich\af37\dbch\af31505\loch\f37 
+ in the loop only i is declared 1 here according to the syntax first operation will be the intialisation hence the loop will be executed f}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid4661362 
+\hich\af37\dbch\af31505\loch\f37 orm 1 to 5 cause the range is 6.}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid1010604 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid13726236 \loch\af37\dbch\af31505\hich\f37 \lquote \rquote \loch\f37  }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs56\lang9\langfe16393\langnp9\insrsid7607105 
+\hich\af37\dbch\af31505\loch\f37 NOTE}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs56\lang9\langfe16393\langnp9\insrsid11098053 \hich\af37\dbch\af31505\loch\f37  }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs56\lang9\langfe16393\langnp9\insrsid13726236 
+\hich\af37\dbch\af31505\loch\f37 - }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs56\lang9\langfe16393\langnp9\insrsid4661362\charrsid13726236 \hich\af37\dbch\af31505\loch\f37 (}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 
+\b\f37\fs56\lang9\langfe16393\langnp9\insrsid8396402\charrsid13726236 \hich\af37\dbch\af31505\loch\f37 range \hich\f37 \endash \loch\f37  1 the loop will be executed true acc}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 
+\b\f37\fs56\lang9\langfe16393\langnp9\insrsid5858401\charrsid13726236 \hich\af37\dbch\af31505\loch\f37 o\hich\af37\dbch\af31505\loch\f37 rding to the conditions}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 
+\b\f37\fs56\lang9\langfe16393\langnp9\insrsid2376058\charrsid13726236 \hich\af37\dbch\af31505\loch\f37  in for range.}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs56\lang9\langfe16393\langnp9\insrsid5178097\charrsid13726236 
+\hich\af37\dbch\af31505\loch\f37 )}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs56\lang9\langfe16393\langnp9\insrsid13726236 \hich\af37\dbch\af31505\loch\f37  \hich\f37 \lquote \rquote }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 
+\b\f37\fs56\lang9\langfe16393\langnp9\insrsid4661362\charrsid13726236 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid16451991 \hich\af37\dbch\af31505\loch\f37 The output will be }{\rtlch\fcs1 \ab\af37\afs56 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid16451991\charrsid16451991 
+{\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 28}{\fldrslt\f10\fs56}}}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid16451991 
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs56\lang9\langfe16393\langnp9\insrsid9716863\charrsid7294933 \hich\af37\dbch\af31505\loch\f37 1
+\par \hich\af37\dbch\af31505\loch\f37 2
+\par \hich\af37\dbch\af31505\loch\f37 3
+\par \hich\af37\dbch\af31505\loch\f37 4
+\par \hich\af37\dbch\af31505\loch\f37 5
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid9400400 
+\par \hich\af37\dbch\af31505\loch\f37  Ex \hich\f37 \endash \loch\f37  for i}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid6885316 \hich\af37\dbch\af31505\loch\f37  in range(1,8}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\f37\fs56\lang9\langfe16393\langnp9\insrsid9400400 \hich\af37\dbch\af31505\loch\f37 ,2):}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid9716863 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid9400400 \tab \tab \tab \hich\af37\dbch\af31505\loch\f37 print(}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid13655525 
+\hich\af37\dbch\af31505\loch\f37 \hich\f37 i + \'93\\\loch\f37 \hich\f37 n Hey!!\'94}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid9400400 \hich\af37\dbch\af31505\loch\f37 )
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid8803099 \hich\af37\dbch\af31505\loch\f37 # }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid6885316 \hich\af37\dbch\af31505\loch\f37 
+here i is }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid10959864 \hich\af37\dbch\af31505\loch\f37 initialized}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid6885316 
+\hich\af37\dbch\af31505\loch\f37  in the loop only i is declared 1 here according to the syntax first operation will be the intialisation hence the loop will be executed form 1 to 7 cause the range is 8}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\f37\fs56\lang9\langfe16393\langnp9\insrsid2499166 \hich\af37\dbch\af31505\loch\f37  , but the difference of every number will be 2 (at the first time of execution it will\hich\af37\dbch\af31505\loch\f37  be 1 and the}{\rtlch\fcs1 \ab\af37\afs48 
+\ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid4543414 \hich\af37\dbch\af31505\loch\f37 n}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid2499166 \hich\af37\dbch\af31505\loch\f37  it will be }{\rtlch\fcs1 
+\ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid4543414 \hich\af37\dbch\af31505\loch\f37 1+2 = 3 the second t}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid9535093 
+\hich\af37\dbch\af31505\loch\f37 ime of execution will execute 3.) cause we have given the}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid13588503 \hich\af37\dbch\af31505\loch\f37  gap(difference) of 2 integers.}{
+\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid9535093 \hich\af37\dbch\af31505\loch\f37 The }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid13655525 \hich\af37\dbch\af31505\loch\f37 
+output will be }{\rtlch\fcs1 \ab\af37\afs56 \ltrch\fcs0 \f37\fs56\lang9\langfe16393\langnp9\insrsid13655525\charrsid13655525 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 28}{\fldrslt\f10\fs56}}}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\f37\fs56\lang9\langfe16393\langnp9\insrsid9535093 
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs56\lang9\langfe16393\langnp9\insrsid13655525\charrsid7294933 \hich\af37\dbch\af31505\loch\f37 1
+\par \hich\af37\dbch\af31505\loch\f37 Hey!!
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs56\lang9\langfe16393\langnp9\insrsid11608038\charrsid7294933 \hich\af37\dbch\af31505\loch\f37 3}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs56\lang9\langfe16393\langnp9\insrsid13655525\charrsid7294933 
+
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs56\lang9\langfe16393\langnp9\insrsid11608038\charrsid7294933 \hich\af37\dbch\af31505\loch\f37 Hey!!
+\par \hich\af37\dbch\af31505\loch\f37 5
+\par \hich\af37\dbch\af31505\loch\f37 Hey!!
+\par \hich\af37\dbch\af31505\loch\f37 7
+\par \hich\af37\dbch\af31505\loch\f37 Hey!!}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs56\lang9\langfe16393\langnp9\insrsid7294933 
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs56\lang9\langfe16393\langnp9\insrsid13588503 
+\par \tab \tab \tab \tab }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs64\ul\lang9\langfe16393\langnp9\insrsid13588503\charrsid13588503 \hich\af37\dbch\af31505\loch\f37 While Loop
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid13588503 \hich\af37\dbch\af31505\loch\f37 A\hich\af37\dbch\af31505\loch\f37  While loop is a way of repeating a block of code as long as a certain condition is true.}{
+\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid8742078 \hich\af37\dbch\af31505\loch\f37  }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid13588503\charrsid8742078 
+\hich\af37\dbch\af31505\loch\f37 For ex}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid13588503 \hich\af37\dbch\af31505\loch\f37  }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 
+\b\f37\fs54\lang9\langfe16393\langnp9\insrsid13588503\charrsid8742078 \hich\af37\dbch\af31505\loch\f37 =}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid13588503 \hich\af37\dbch\af31505\loch\f37 
+ We can use while loop to print numbers from 1 to 10}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid8742078 .}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid13588503 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid2193954 \hich\af37\dbch\af31505\loch\f37 Syntax \hich\f37 \endash \loch\f37  }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid8742078 
+
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\ul\lang9\langfe16393\langnp9\insrsid2193954\charrsid3868965 \hich\af37\dbch\af31505\loch\f37 intialization 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\ul\lang9\langfe16393\langnp9\insrsid2193954\charrsid3868965 \hich\af37\dbch\af31505\loch\f37 while }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 
+\b\f37\fs54\ul\lang9\langfe16393\langnp9\insrsid2193954\charrsid3868965 \hich\af37\dbch\af31505\loch\f37 condition:
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid1402508 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid13708759 \hich\af37\dbch\af31505\loch\f37 ____ }{\rtlch\fcs1 
+\af37\afs48 \ltrch\fcs0 \b\f37\fs54\ul\lang9\langfe16393\langnp9\insrsid2193954\charrsid3868965 \hich\af37\dbch\af31505\loch\f37 code
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid13708759 \hich\af37\dbch\af31505\loch\f37 ____ }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\ul\lang9\langfe16393\langnp9\insrsid2193954\charrsid3868965 
+\hich\af37\dbch\af31505\loch\f37 step(}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\ul\lang9\langfe16393\langnp9\insrsid2193954\charrsid3868965 \hich\af37\dbch\af31505\loch\f37 increment / decrement}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 
+\b\f37\fs54\ul\lang9\langfe16393\langnp9\insrsid2193954\charrsid3868965 \hich\af37\dbch\af31505\loch\f37 )}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\ul\lang9\langfe16393\langnp9\insrsid3868965 
+\par }\pard \ltrpar\ql \fi720\li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid3868965 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid13708759\charrsid13708759 
+\hich\af37\dbch\af31505\loch\f37 _ =}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid11933932 \hich\af37\dbch\af31505\loch\f37  indent }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 
+\b\f37\fs54\lang9\langfe16393\langnp9\insrsid3868965\charrsid13708759 
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid3868965 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid3868965\charrsid3868965 \hich\af37\dbch\af31505\loch\f37 Ex }{
+\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid3868965 \loch\af37\dbch\af31505\hich\f37 \endash \hich\af37\dbch\af31505\loch\f37  WAP in python to print numbers till 5
+\par \hich\af37\dbch\af31505\loch\f37 i = 0
+\par \hich\af37\dbch\af31505\loch\f37 while i<6:
+\par \tab \hich\af37\dbch\af31505\loch\f37 print(i)
+\par \tab \hich\af37\dbch\af31505\loch\f37 i += 1}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid12337105 
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid3868965 \hich\af37\dbch\af31505\loch\f37 Output }{\rtlch\fcs1 \af37\afs54 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid3868965\charrsid3868965 
+{\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 27}{\fldrslt\f10\fs54}}}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid3868965 \hich\af37\dbch\af31505\loch\f37   }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 
+\b\f37\fs54\lang9\langfe16393\langnp9\insrsid12337105 
+\par \hich\af37\dbch\af31505\loch\f37 1}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid3868965 
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid12337105 \hich\af37\dbch\af31505\loch\f37 2
+\par \hich\af37\dbch\af31505\loch\f37 3
+\par \hich\af37\dbch\af31505\loch\f37 4
+\par \hich\af37\dbch\af31505\loch\f37 5}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid11032557 
+\par }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid11032557\charrsid11032557 \hich\af37\dbch\af31505\loch\f37 There}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid11032557 
+\loch\af37\dbch\af31505\hich\f37 \rquote \loch\f37 s nothing as complicated as any other loop like }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid11032557\charrsid11032557 \hich\af37\dbch\af31505\loch\f37 for loop}{
+\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid11032557 \hich\af37\dbch\af31505\loch\f37  }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid11032557 \hich\af37\dbch\af31505\loch\f37 
+, here in while firstly the in}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid12144806 \hich\af37\dbch\af31505\loch\f37 itializ}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\f37\fs54\lang9\langfe16393\langnp9\insrsid11032557 \hich\af37\dbch\af31505\loch\f37 ation condition will take \hich\af37\dbch\af31505\loch\f37 place then the range condition then the step con}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\f37\fs54\lang9\langfe16393\langnp9\insrsid12144806 \hich\af37\dbch\af31505\loch\f37 dition.}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid5793711 
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid6750758 {\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid6750758 
+\par 
+\par 
+\par 
+\par }\pard \ltrpar\ql \li2160\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin2160\itap0\pararsid6750758 {\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs60\lang9\langfe16393\langnp9\insrsid6750758 \hich\af37\dbch\af31505\loch\f37  }{\rtlch\fcs1 
+\af37\afs48 \ltrch\fcs0 \b\f37\fs64\ul\lang9\langfe16393\langnp9\insrsid6750758\charrsid11750684 \hich\af37\dbch\af31505\loch\f37 In a basic term}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs64\ul\lang9\langfe16393\langnp9\insrsid6750758 
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs64\ul\lang9\langfe16393\langnp9\insrsid6750758\charrsid6750758 
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid6750758 {\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid6750758 \hich\af37\dbch\af31505\loch\f37 
+We can use the for loop in a condition where we know the proper idea that till when the loop will be executed or the condition will be checked, though the for loop also \hich\af37\dbch\af31505\loch\f37 
+includes some of it subtypes like tuple , string , or range. 
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid6750758\charrsid1121043 \hich\af37\dbch\af31505\loch\f37 EX}{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid6750758 
+\hich\af37\dbch\af31505\loch\f37  \hich\f37 \endash \loch\f37  }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid6750758 \hich\af37\dbch\af31505\loch\f37 
+Make a python program for printing a negative denominator series till nth number(from the user).
+\par }\pard \ltrpar\ql \fi720\li2880\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin2880\itap0\pararsid6750758 {\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid6750758 \hich\af37\dbch\af31505\loch\f37 Or 
+
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid6750758 {\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid6750758 \hich\af37\dbch\af31505\loch\f37 
+Make a program of Fibonacci Series in python.
+\par 
+\par \hich\af37\dbch\af31505\loch\f37 In both of these examples and many more l\hich\af37\dbch\af31505\loch\f37 
+ike that where the for loop can perform the task more easily and with a simple program running mechanism. We can also make these programs using the while loop, whereas while loop are used to execute a block of statements untill a condition is false (for l
+\hich\af37\dbch\af31505\loch\f37 o\hich\af37\dbch\af31505\loch\f37 op used to iterate over a sequence of items(it\hich\f37 \rquote \loch\f37 s subtypes)) 
+\par 
+\par \hich\af37\dbch\af31505\loch\f37 Although for loop is more concise and readable when the programmer has the number of iterations in advance. Whereas While loop are more flexible and powerful when the programmer need to check a 
+\hich\af37\dbch\af31505\loch\f37 condition depends on the loop variable or other factors.
+\par }{\rtlch\fcs1 \af37\afs48 \ltrch\fcs0 \b\f37\fs54\lang9\langfe16393\langnp9\insrsid6750758 \hich\af37\dbch\af31505\loch\f37 While loop ex \hich\f37 \endash \loch\f37  }{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 
+\f37\fs54\lang9\langfe16393\langnp9\insrsid6750758 \hich\af37\dbch\af31505\loch\f37 Make a python program to print first 10 natural numbers.
+\par 
+\par \hich\af37\dbch\af31505\loch\f37 There\hich\f37 \rquote \loch\f37 s nothing more complicated like that we can use both the loop in different programs depends on the program understandin\hich\af37\dbch\af31505\loch\f37 
+g , logic of the program and the situation of the program.}{\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid6750758\charrsid11750684 
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid3868965 {\rtlch\fcs1 \ab\af37\afs48 \ltrch\fcs0 \f37\fs54\lang9\langfe16393\langnp9\insrsid6750758\charrsid12144806 
+\par }{\*\themedata 504b030414000600080000002100e9de0fbfff0000001c020000130000005b436f6e74656e745f54797065735d2e786d6cac91cb4ec3301045f748fc83e52d4a
+9cb2400825e982c78ec7a27cc0c8992416c9d8b2a755fbf74cd25442a820166c2cd933f79e3be372bd1f07b5c3989ca74aaff2422b24eb1b475da5df374fd9ad
+5689811a183c61a50f98f4babebc2837878049899a52a57be670674cb23d8e90721f90a4d2fa3802cb35762680fd800ecd7551dc18eb899138e3c943d7e503b6
+b01d583deee5f99824e290b4ba3f364eac4a430883b3c092d4eca8f946c916422ecab927f52ea42b89a1cd59c254f919b0e85e6535d135a8de20f20b8c12c3b0
+0c895fcf6720192de6bf3b9e89ecdbd6596cbcdd8eb28e7c365ecc4ec1ff1460f53fe813d3cc7f5b7f020000ffff0300504b030414000600080000002100a5d6
+a7e7c0000000360100000b0000005f72656c732f2e72656c73848fcf6ac3300c87ef85bd83d17d51d2c31825762fa590432fa37d00e1287f68221bdb1bebdb4f
+c7060abb0884a4eff7a93dfeae8bf9e194e720169aaa06c3e2433fcb68e1763dbf7f82c985a4a725085b787086a37bdbb55fbc50d1a33ccd311ba548b6309512
+0f88d94fbc52ae4264d1c910d24a45db3462247fa791715fd71f989e19e0364cd3f51652d73760ae8fa8c9ffb3c330cc9e4fc17faf2ce545046e37944c69e462
+a1a82fe353bd90a865aad41ed0b5b8f9d6fd010000ffff0300504b0304140006000800000021006b799616830000008a0000001c0000007468656d652f746865
+6d652f7468656d654d616e616765722e786d6c0ccc4d0ac3201040e17da17790d93763bb284562b2cbaebbf600439c1a41c7a0d29fdbd7e5e38337cedf14d59b
+4b0d592c9c070d8a65cd2e88b7f07c2ca71ba8da481cc52c6ce1c715e6e97818c9b48d13df49c873517d23d59085adb5dd20d6b52bd521ef2cdd5eb9246a3d8b
+4757e8d3f729e245eb2b260a0238fd010000ffff0300504b03041400060008000000210030dd4329a8060000a41b0000160000007468656d652f7468656d652f
+7468656d65312e786d6cec594f6fdb3614bf0fd87720746f6327761a07758ad8b19b2d4d1bc46e871e698996d850a240d2497d1bdae38001c3ba618715d86d87
+615b8116d8a5fb34d93a6c1dd0afb0475292c5585e9236d88aad3e2412f9e3fbff1e1fa9abd7eec70c1d1221294fda5efd72cd4324f1794093b0eddd1ef62fad
+79482a9c0498f184b4bd2991deb58df7dfbb8ad755446282607d22d771db8b944ad79796a40fc3585ee62949606ecc458c15bc8a702910f808e8c66c69b9565b
+5d8a314d3c94e018c8de1a8fa94fd05093f43672e23d06af89927ac06762a049136785c10607758d9053d965021d62d6f6804fc08f86e4bef210c352c144dbab
+999fb7b4717509af678b985ab0b6b4ae6f7ed9ba6c4170b06c788a705430adf71bad2b5b057d03606a1ed7ebf5babd7a41cf00b0ef83a6569632cd467faddec9
+699640f6719e76b7d6ac355c7c89feca9cccad4ea7d36c65b258a206641f1b73f8b5da6a6373d9c11b90c537e7f08dce66b7bbeae00dc8e257e7f0fd2badd586
+8b37a088d1e4600ead1ddaef67d40bc898b3ed4af81ac0d76a197c86826828a24bb318f3442d8ab518dfe3a20f000d6458d104a9694ac6d88728eee2782428d6
+0cf03ac1a5193be4cbb921cd0b495fd054b5bd0f530c1931a3f7eaf9f7af9e3f45c70f9e1d3ff8e9f8e1c3e3073f5a42ceaa6d9c84e5552fbffdeccfc71fa33f
+9e7ef3f2d117d57859c6fffac327bffcfc793510d26726ce8b2f9ffcf6ecc98baf3efdfdbb4715f04d814765f890c644a29be408edf3181433567125272371be
+15c308d3f28acd249438c19a4b05fd9e8a1cf4cd296699771c393ac4b5e01d01e5a30a787d72cf1178108989a2159c77a2d801ee72ce3a5c545a6147f32a9979
+3849c26ae66252c6ed637c58c5bb8b13c7bfbd490a75330f4b47f16e441c31f7184e140e494214d273fc80900aedee52ead87597fa824b3e56e82e451d4c2b4d
+32a423279a668bb6690c7e9956e90cfe766cb37b077538abd27a8b1cba48c80acc2a841f12e698f13a9e281c57911ce298950d7e03aba84ac8c154f8655c4f2a
+f074481847bd804859b5e696007d4b4edfc150b12addbecba6b18b148a1e54d1bc81392f23b7f84137c2715a851dd0242a633f900710a218ed715505dfe56e86
+e877f0034e16bafb0e258ebb4faf06b769e888340b103d331115bebc4eb813bf83291b63624a0d1475a756c734f9bbc2cd28546ecbe1e20a3794ca175f3fae90
+fb6d2dd99bb07b55e5ccf68942bd0877b23c77b908e8db5f9db7f024d9239010f35bd4bbe2fcae387bfff9e2bc289f2fbe24cfaa301468dd8bd846dbb4ddf1c2
+ae7b4c191ba8292337a469bc25ec3d411f06f53a73e224c5292c8de0516732307070a1c0660d125c7d44553488700a4d7bddd3444299910e254ab984c3a219ae
+a4adf1d0f82b7bd46cea4388ad1c12ab5d1ed8e1153d9c9f350a3246aad01c6873462b9ac05999ad5cc988826eafc3acae853a33b7ba11cd1445875ba1b236b1
+399483c90bd560b0b0263435085a21b0f22a9cf9356b38ec6046026d77eba3dc2dc60b17e92219e180643ed27acffba86e9c94c7ca9c225a0f1b0cfae0788ad5
+4adc5a9aec1b703b8b93caec1a0bd8e5de7b132fe5113cf312503b998e2c2927274bd051db6b35979b1ef271daf6c6704e86c73805af4bdd476216c26593af84
+0dfb5393d964f9cc9bad5c313709ea70f561ed3ea7b053075221d51696910d0d339585004b34272bff7213cc7a510a5454a3b349b1b206c1f0af490176745d4b
+c663e2abb2b34b23da76f6352ba57ca2881844c1111ab189d8c7e07e1daaa04f40255c77988aa05fe06e4e5bdb4cb9c5394bbaf28d98c1d971ccd20867e556a7
+689ec9166e0a522183792b8907ba55ca6e943bbf2a26e52f48957218ffcf54d1fb09dc3eac04da033e5c0d0b8c74a6b43d2e54c4a10aa511f5fb021a07533b20
+5ae07e17a621a8e082dafc17e450ffb739676998b48643a4daa7211214f623150942f6a02c99e83b85583ddbbb2c4996113211551257a656ec1139246ca86be0
+aadedb3d1441a89b6a929501833b197fee7b9641a3503739e57c732a59b1f7da1cf8a73b1f9bcca0945b874d4393dbbf10b1680f66bbaa5d6f96e77b6f59113d
+316bb31a795600b3d256d0cad2fe354538e7566b2bd69cc6cbcd5c38f0e2bcc63058344429dc2121fd07f63f2a7c66bf76e80d75c8f7a1b622f878a18941d840
+545fb28d07d205d20e8ea071b283369834296bdaac75d256cb37eb0bee740bbe278cad253b8bbfcf69eca23973d939b97891c6ce2cecd8da8e2d343578f6648a
+c2d0383fc818c798cf64e52f597c740f1cbd05df0c264c49134cf09d4a60e8a107260f20f92d47b374e32f000000ffff0300504b030414000600080000002100
+0dd1909fb60000001b010000270000007468656d652f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73848f4d0ac2301484f7
+8277086f6fd3ba109126dd88d0add40384e4350d363f2451eced0dae2c082e8761be9969bb979dc9136332de3168aa1a083ae995719ac16db8ec8e4052164e89
+d93b64b060828e6f37ed1567914b284d262452282e3198720e274a939cd08a54f980ae38a38f56e422a3a641c8bbd048f7757da0f19b017cc524bd62107bd500
+1996509affb3fd381a89672f1f165dfe514173d9850528a2c6cce0239baa4c04ca5bbabac4df000000ffff0300504b01022d0014000600080000002100e9de0f
+bfff0000001c0200001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d0014000600080000002100a5d6
+a7e7c0000000360100000b00000000000000000000000000300100005f72656c732f2e72656c73504b01022d00140006000800000021006b799616830000008a
+0000001c00000000000000000000000000190200007468656d652f7468656d652f7468656d654d616e616765722e786d6c504b01022d00140006000800000021
+0030dd4329a8060000a41b00001600000000000000000000000000d60200007468656d652f7468656d652f7468656d65312e786d6c504b01022d001400060008
+00000021000dd1909fb60000001b0100002700000000000000000000000000b20900007468656d652f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73504b050600000000050005005d010000ad0a00000000}
+{\*\colorschememapping 3c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d225554462d3822207374616e64616c6f6e653d22796573223f3e0d0a3c613a636c724d
+617020786d6c6e733a613d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f64726177696e676d6c2f323030362f6d6169
+6e22206267313d226c743122207478313d22646b3122206267323d226c743222207478323d22646b322220616363656e74313d22616363656e74312220616363
+656e74323d22616363656e74322220616363656e74333d22616363656e74332220616363656e74343d22616363656e74342220616363656e74353d22616363656e74352220616363656e74363d22616363656e74362220686c696e6b3d22686c696e6b2220666f6c486c696e6b3d22666f6c486c696e6b222f3e}
+{\*\latentstyles\lsdstimax267\lsdlockeddef0\lsdsemihiddendef1\lsdunhideuseddef1\lsdqformatdef0\lsdprioritydef99{\lsdlockedexcept \lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority0 \lsdlocked0 Normal;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 1;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 2;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 3;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 4;
+\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 5;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 6;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 7;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 8;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 9;
+\lsdpriority39 \lsdlocked0 toc 1;\lsdpriority39 \lsdlocked0 toc 2;\lsdpriority39 \lsdlocked0 toc 3;\lsdpriority39 \lsdlocked0 toc 4;\lsdpriority39 \lsdlocked0 toc 5;\lsdpriority39 \lsdlocked0 toc 6;\lsdpriority39 \lsdlocked0 toc 7;
+\lsdpriority39 \lsdlocked0 toc 8;\lsdpriority39 \lsdlocked0 toc 9;\lsdqformat1 \lsdpriority35 \lsdlocked0 caption;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority10 \lsdlocked0 Title;\lsdpriority1 \lsdlocked0 Default Paragraph Font;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority11 \lsdlocked0 Subtitle;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority22 \lsdlocked0 Strong;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority20 \lsdlocked0 Emphasis;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority59 \lsdlocked0 Table Grid;\lsdunhideused0 \lsdlocked0 Placeholder Text;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority1 \lsdlocked0 No Spacing;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 1;\lsdunhideused0 \lsdlocked0 Revision;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority34 \lsdlocked0 List Paragraph;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority29 \lsdlocked0 Quote;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority30 \lsdlocked0 Intense Quote;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 4;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 4;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 4;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 4;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority19 \lsdlocked0 Subtle Emphasis;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority21 \lsdlocked0 Intense Emphasis;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority31 \lsdlocked0 Subtle Reference;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority32 \lsdlocked0 Intense Reference;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority33 \lsdlocked0 Book Title;\lsdpriority37 \lsdlocked0 Bibliography;\lsdqformat1 \lsdpriority39 \lsdlocked0 TOC Heading;}}{\*\datastore 010500000200000018000000
+4d73786d6c322e534158584d4c5265616465722e362e3000000000000000000000060000
+d0cf11e0a1b11ae1000000000000000000000000000000003e000300feff090006000000000000000000000001000000010000000000000000100000feffffff00000000feffffff0000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffdfffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e5000000000000000000000000b00e
+97394004da01feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000105000000000000}}
